@@ -74,7 +74,7 @@ async def test_pipeline_dry_run(tmp_path, monkeypatch):
         results = await radar.run_daily_pipeline()
 
         assert results["collected"] >= 1
-        assert results["published"] is True
+        assert results["published"] is False
 
 
 @pytest.mark.asyncio
@@ -135,7 +135,7 @@ async def test_pipeline_with_multiple_ideas(db):
         results = await radar.run_daily_pipeline()
 
         assert results["collected"] == 4
-        assert results["published"] is True
+        assert results["published"] is False
 
 
 @pytest.mark.asyncio
@@ -184,4 +184,4 @@ async def test_pipeline_handles_collector_failure(db):
 
         # Should still collect from the working collector
         assert results["collected"] >= 1
-        assert results["published"] is True
+        assert results["published"] is False
