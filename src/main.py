@@ -144,17 +144,22 @@ class OpenSourceRadar:
         )
 
         # Phase 6: Publish
+        published = False
         if not settings.dry_run:
-            pub_success = await self.publisher.publish_readme(readme_content)
-            await self.publisher.publish_ideas_json(all_approved)
-            results["published"] = pub_success
+            try:
+                pub_success = await self.publisher.publish_readme(readme_content)
+                await self.publisher.publish_ideas_json(all_approved)
+                published = pub_success
+            except Exception as e:
+                logger.warning("publish_failed_writing_local", error=str(e))
         else:
             logger.info("dry_mode_skipping_publish")
-            self.publisher.write_ideas_json_local(all_approved)
-            # Write README locally
-            with open("README.md", "w") as f:
-                f.write(readme_content)
-            results["published"] = True
+
+        # Always write locally as fallback
+        self.publisher.write_ideas_json_local(all_approved)
+        with open("README.md", "w") as f:
+            f.write(readme_content)
+        results["published"] = published
 
         # Phase 7: Check thresholds
         await self.alert_manager.check_thresholds(metrics)
