@@ -4,7 +4,7 @@ import asyncio
 import functools
 import inspect
 import time
-from collections.abc import Callable, AsyncIterator
+from collections.abc import AsyncIterator, Callable
 from typing import Any, TypeVar
 
 import structlog
