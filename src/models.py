@@ -1,26 +1,26 @@
 from __future__ import annotations
 
 from datetime import datetime
-from enum import Enum
+from enum import StrEnum
 from typing import Any
 from uuid import uuid4
 
 from pydantic import BaseModel, Field
 
 
-class SourceType(str, Enum):
+class SourceType(StrEnum):
     GITHUB = "github"
     REDDIT = "reddit"
     HACKER_NEWS = "hackernews"
 
 
-class DifficultyLevel(str, Enum):
+class DifficultyLevel(StrEnum):
     BEGINNER = "Beginner"
     INTERMEDIATE = "Intermediate"
     ADVANCED = "Advanced"
 
 
-class ApprovalStatus(str, Enum):
+class ApprovalStatus(StrEnum):
     PENDING = "pending"
     APPROVED = "approved"
     REJECTED = "rejected"
