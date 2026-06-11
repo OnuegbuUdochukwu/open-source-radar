@@ -1,0 +1,53 @@
+name: Daily Update
+
+on:
+  schedule:
+    # Run daily at 6:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Open Source Radar pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          LOG_LEVEL: INFO
+        run: |
+          python -m src.main
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "radar-bot@opensourceradar.dev"
+          git config --local user.name "Open Source Radar Bot"
+          git add README.md data/ideas.json data/metrics.json 2>/dev/null || true
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: daily update $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi

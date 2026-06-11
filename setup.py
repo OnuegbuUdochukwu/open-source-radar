@@ -1,0 +1,30 @@
+from setuptools import find_packages, setup
+
+setup(
+    name="open-source-radar",
+    version="1.0.0",
+    packages=find_packages(where="src"),
+    package_dir={"": "src"},
+    python_requires=">=3.12",
+    install_requires=[
+        "httpx>=0.27.0",
+        "pydantic>=2.5.0",
+        "pydantic-settings>=2.1.0",
+        "structlog>=24.1.0",
+        "python-dotenv>=1.0.0",
+        "google-generativeai>=0.3.0",
+        "sentence-transformers>=2.2.0",
+        "scikit-learn>=1.3.0",
+        "numpy>=1.24.0",
+        "thefuzz[speedup]>=0.20.0",
+        "python-Levenshtein>=0.23.0",
+        "requests>=2.31.0",
+        "beautifulsoup4>=4.12.0",
+        "lxml>=4.9.0",
+    ],
+    entry_points={
+        "console_scripts": [
+            "open-source-radar=src.main:main",
+        ],
+    },
+)
