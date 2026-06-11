@@ -1,15 +1,12 @@
 from __future__ import annotations
 
 import json
-import os
-from datetime import datetime
-from typing import Any
 
 import httpx
 import structlog
 
 from src.config import settings
-from src.models import Metrics, ProcessedIdea
+from src.models import ProcessedIdea
 from src.utils.retry import async_retry
 
 logger = structlog.get_logger(__name__)

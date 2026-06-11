@@ -1,13 +1,13 @@
 from __future__ import annotations
 
+from collections.abc import AsyncIterator
 from datetime import datetime
-from typing import Any, AsyncIterator
+from typing import Any
 
 import httpx
 import structlog
 
 from src.collectors.base import BaseCollector
-from src.config import settings
 from src.models import RawIdea, SourceType
 from src.utils.retry import async_retry
 

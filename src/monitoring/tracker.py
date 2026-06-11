@@ -27,10 +27,6 @@ class GrowthTracker:
         rejected = self.db.count_processed_ideas(ApprovalStatus.REJECTED)
         duplicates = self.db.count_processed_ideas(ApprovalStatus.DUPLICATE)
 
-        # Load previous metrics for growth calculation
-        previous = self.db.get_metrics()
-        previous_total = previous.total_ideas if previous else 0
-
         # Load ideas to compute distributions
         approved_ideas = self.db.get_all_approved_ideas()
 

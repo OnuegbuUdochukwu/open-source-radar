@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import hashlib
-import logging
 import re
 from typing import Any
 
@@ -11,7 +9,7 @@ from thefuzz import fuzz
 
 from src.config import settings
 from src.database import Database
-from src.models import ApprovalStatus, IdeaFingerprint, ProcessedIdea, RawIdea
+from src.models import IdeaFingerprint, ProcessedIdea, RawIdea
 
 logger = structlog.get_logger(__name__)
 

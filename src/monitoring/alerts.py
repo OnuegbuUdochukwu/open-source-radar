@@ -3,7 +3,6 @@ from __future__ import annotations
 import os
 import smtplib
 from email.message import EmailMessage
-from typing import Any
 
 import structlog
 
@@ -38,7 +37,10 @@ class AlertManager:
         if readme_size_kb >= settings.critical_readme_size_kb:
             alert = Alert(
                 level="critical",
-                message=f"README size ({readme_size_kb:.0f} KB) exceeds critical threshold ({settings.critical_readme_size_kb} KB)",
+                message=(
+                    f"README size ({readme_size_kb:.0f} KB) exceeds critical threshold "
+                    f"({settings.critical_readme_size_kb} KB)"
+                ),
                 metric="readme_size",
                 value=readme_size_kb,
                 threshold=settings.critical_readme_size_kb,
@@ -48,7 +50,10 @@ class AlertManager:
         elif readme_size_kb >= settings.warning_readme_size_kb:
             alert = Alert(
                 level="warning",
-                message=f"README size ({readme_size_kb:.0f} KB) exceeds warning threshold ({settings.warning_readme_size_kb} KB)",
+                message=(
+                    f"README size ({readme_size_kb:.0f} KB) exceeds warning threshold "
+                    f"({settings.warning_readme_size_kb} KB)"
+                ),
                 metric="readme_size",
                 value=readme_size_kb,
                 threshold=settings.warning_readme_size_kb,
@@ -59,7 +64,10 @@ class AlertManager:
         if metrics.total_ideas >= settings.critical_total_ideas:
             alert = Alert(
                 level="critical",
-                message=f"Total ideas ({metrics.total_ideas}) exceeds critical threshold ({settings.critical_total_ideas})",
+                message=(
+                    f"Total ideas ({metrics.total_ideas}) exceeds critical threshold "
+                    f"({settings.critical_total_ideas})"
+                ),
                 metric="total_ideas",
                 value=metrics.total_ideas,
                 threshold=settings.critical_total_ideas,
@@ -69,7 +77,10 @@ class AlertManager:
         elif metrics.total_ideas >= settings.warning_total_ideas:
             alert = Alert(
                 level="warning",
-                message=f"Total ideas ({metrics.total_ideas}) exceeds warning threshold ({settings.warning_total_ideas})",
+                message=(
+                    f"Total ideas ({metrics.total_ideas}) exceeds warning threshold "
+                    f"({settings.warning_total_ideas})"
+                ),
                 metric="total_ideas",
                 value=metrics.total_ideas,
                 threshold=settings.warning_total_ideas,
@@ -125,7 +136,7 @@ class AlertManager:
 
     def send_email_alert(self, alert: Alert) -> None:
         """Send email notification for critical alerts.
-        
+
         Requires SMTP configuration in environment variables.
         """
         smtp_host = os.getenv("SMTP_HOST")

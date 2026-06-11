@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-from datetime import datetime
-
 import structlog
 
 from src.database import Database

@@ -1,12 +1,12 @@
 from __future__ import annotations
 
-from unittest.mock import AsyncMock, patch
+from unittest.mock import AsyncMock
 
 import pytest
 
 from src.collectors.github import GitHubCollector
-from src.collectors.reddit import RedditCollector
 from src.collectors.hackernews import HackerNewsCollector
+from src.collectors.reddit import RedditCollector
 
 
 @pytest.mark.asyncio

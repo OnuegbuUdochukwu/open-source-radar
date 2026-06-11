@@ -2,8 +2,6 @@ from __future__ import annotations
 
 from datetime import datetime
 
-import pytest
-
 from src.database import Database
 from src.models import (
     Alert,

@@ -6,13 +6,12 @@ Run via: python -m src.reports.monthly_report
 from __future__ import annotations
 
 from datetime import datetime
-from pathlib import Path
 
 import structlog
 
-from src.database import Database
-from src.models import ApprovalStatus, SourceType
 from src.config import settings
+from src.database import Database
+from src.models import ApprovalStatus
 
 logger = structlog.get_logger(__name__)
 
@@ -101,7 +100,7 @@ def generate_monthly_report() -> str:
         pct = (count / approved * 100) if approved > 0 else 0
         report += f"| {src_name.title()} | {count} | {pct:.1f}% |\n"
 
-    report += f"""
+    report += """
 ## Top Categories
 
 | Category | Count |
@@ -110,7 +109,7 @@ def generate_monthly_report() -> str:
     for cat, count in top_categories:
         report += f"| {cat} | {count} |\n"
 
-    report += f"""
+    report += """
 ## Top Technologies
 
 | Technology | Count |
@@ -119,7 +118,7 @@ def generate_monthly_report() -> str:
     for lang, count in top_languages:
         report += f"| {lang.title()} | {count} |\n"
 
-    report += f"""
+    report += """
 ## Difficulty Distribution
 
 | Level | Count |
@@ -129,7 +128,7 @@ def generate_monthly_report() -> str:
         count = difficulty_counts.get(diff, 0)
         report += f"| {diff} | {count} |\n"
 
-    report += f"""
+    report += """
 ## AI Rejection Reasons
 
 | Reason | Count |

@@ -4,7 +4,7 @@ import structlog
 
 from src.ai.base import AIProvider
 from src.config import settings
-from src.models import ApprovalStatus, AIVerdict, ProcessedIdea, RawIdea
+from src.models import AIVerdict, ApprovalStatus, ProcessedIdea, RawIdea
 from src.utils.retry import async_retry
 
 logger = structlog.get_logger(__name__)
@@ -54,7 +54,9 @@ class AIEvaluator:
 
         return status, verdict
 
-    def enrich_idea(self, idea: RawIdea, verdict: AIVerdict, status: ApprovalStatus, quality_score: float) -> ProcessedIdea:
+    def enrich_idea(
+        self, idea: RawIdea, verdict: AIVerdict, status: ApprovalStatus, quality_score: float
+    ) -> ProcessedIdea:
         """Convert a RawIdea into a ProcessedIdea with AI metadata."""
         return ProcessedIdea(
             id=idea.id,

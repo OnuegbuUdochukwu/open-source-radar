@@ -1,8 +1,9 @@
 from __future__ import annotations
 
+from datetime import datetime
+
 from src.categorizer.engine import CategorizationEngine
 from src.models import ApprovalStatus, DifficultyLevel, ProcessedIdea, SourceType
-from datetime import datetime
 
 
 def test_categorize_python_project():

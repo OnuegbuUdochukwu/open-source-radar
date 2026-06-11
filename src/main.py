@@ -17,15 +17,13 @@ The daily pipeline:
 from __future__ import annotations
 
 import asyncio
-import json
-from datetime import datetime
 from typing import Any
 
 import structlog
 
 from src.ai import GeminiProvider, HuggingFaceProvider
-from src.ai.openai import OpenAIProvider
 from src.ai.anthropic import AnthropicProvider
+from src.ai.openai import OpenAIProvider
 from src.collectors import GitHubCollector, HackerNewsCollector, RedditCollector
 from src.config import settings
 from src.database import Database

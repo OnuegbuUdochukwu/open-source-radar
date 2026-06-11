@@ -8,7 +8,7 @@ from unittest.mock import AsyncMock, patch
 import pytest
 
 from src.main import OpenSourceRadar
-from src.models import ApprovalStatus, AIVerdict, DifficultyLevel, RawIdea, SourceType
+from src.models import AIVerdict, DifficultyLevel, RawIdea, SourceType
 
 
 @pytest.mark.asyncio

@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-from unittest.mock import AsyncMock, MagicMock, patch
-
 import pytest
 
 from src.filters.deduplicator import Deduplicator
@@ -91,7 +89,7 @@ class TestDeduplicator:
         assert await dedup.is_duplicate(sample_raw_github_idea) is False
 
         # Mark as processed
-        from src.models import ProcessedIdea, ApprovalStatus
+        from src.models import ApprovalStatus, ProcessedIdea
         processed = ProcessedIdea(
             id=sample_raw_github_idea.id,
             source=sample_raw_github_idea.source,
@@ -138,7 +136,7 @@ class TestDeduplicator:
             collected_at=datetime(2024, 1, 1),
         )
         # Mark first one
-        from src.models import ProcessedIdea, ApprovalStatus
+        from src.models import ApprovalStatus, ProcessedIdea
         processed = ProcessedIdea(
             id=idea.id,
             source=idea.source,

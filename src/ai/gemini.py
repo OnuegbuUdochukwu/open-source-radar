@@ -36,7 +36,9 @@ Respond ONLY with a JSON object (no markdown, no code fences):
 {{
     "approved": true/false,
     "confidence": 0.0-1.0,
-    "category": "Web Development | AI/ML | Developer Tools | CLI Tools | APIs | Automation | Cybersecurity | Data Engineering | Mobile | DevOps | Productivity | Education | Other",
+    "category": "Web Development | AI/ML | Developer Tools | CLI Tools | APIs | "
+               "Automation | Cybersecurity | Data Engineering | Mobile | DevOps | "
+               "Productivity | Education | Other",
     "difficulty": "Beginner | Intermediate | Advanced",
     "summary": "One-sentence summary of the project idea",
     "reasoning": "Brief explanation of the decision (1-2 sentences)"

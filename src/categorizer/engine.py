@@ -10,8 +10,10 @@ from src.models import ProcessedIdea
 logger = structlog.get_logger(__name__)
 
 TECHNOLOGY_CATEGORIES: dict[str, list[str]] = {
-    "Python": ["python", "django", "flask", "fastapi", "pytorch", "tensorflow", "pandas", "numpy", "scikit", "jupyter"],
-    "JavaScript": ["javascript", "js", "node", "nodejs", "express", "npm", "yarn", "webpack", "babel", "jquery", "vanilla"],
+    "Python": ["python", "django", "flask", "fastapi", "pytorch", "tensorflow",
+               "pandas", "numpy", "scikit", "jupyter"],
+    "JavaScript": ["javascript", "js", "node", "nodejs", "express", "npm", "yarn",
+                   "webpack", "babel", "jquery", "vanilla"],
     "TypeScript": ["typescript", "ts", "deno", "bun", "tsx", "typeorm", "prisma", "nest", "nextjs"],
     "React": ["react", "reactjs", "react-native", "jsx", "hooks", "redux", "nextjs", "gatsby", "remix"],
     "Next.js": ["nextjs", "next.js", "next-js", "nextjs13", "app-router", "server-actions"],
@@ -19,28 +21,41 @@ TECHNOLOGY_CATEGORIES: dict[str, list[str]] = {
     "Go": ["go", "golang", "go-lang", "goroutine", "gin-gonic"],
     "Java": ["java", "spring", "spring-boot", "maven", "gradle", "kotlin", "jvm", "android"],
     "C#": ["csharp", "c-sharp", "c#", "dotnet", ".net", "asp.net", "blazor", "unity"],
-    "AI/ML": ["machine-learning", "deep-learning", "ai", "artificial-intelligence", "ml", "nlp", "llm", "neural", "transformer", "gpt", "pytorch", "tensorflow", "keras", "scikit-learn", "xgboost"],
-    "Mobile": ["android", "ios", "flutter", "swift", "react-native", "kotlin", "mobile", "app", "swiftui", "uikit"],
-    "DevOps": ["docker", "kubernetes", "k8s", "terraform", "ansible", "jenkins", "ci/cd", "github-actions", "gitops", "helm", "prometheus", "grafana"],
-    "Cybersecurity": ["security", "cybersecurity", "encryption", "auth", "oauth", "jwt", "vulnerability", "penetration", "malware", "firewall"],
+    "AI/ML": ["machine-learning", "deep-learning", "ai", "artificial-intelligence",
+              "ml", "nlp", "llm", "neural", "transformer", "gpt", "pytorch",
+              "tensorflow", "keras", "scikit-learn", "xgboost"],
+    "Mobile": ["android", "ios", "flutter", "swift", "react-native",
+               "kotlin", "mobile", "app", "swiftui", "uikit"],
+    "DevOps": ["docker", "kubernetes", "k8s", "terraform", "ansible", "jenkins",
+               "ci/cd", "github-actions", "gitops", "helm", "prometheus", "grafana"],
+    "Cybersecurity": ["security", "cybersecurity", "encryption", "auth", "oauth",
+                      "jwt", "vulnerability", "penetration", "malware", "firewall"],
 }
 
 TOPIC_CATEGORIES: dict[str, list[str]] = {
-    "Web Applications": ["web", "webapp", "website", "dashboard", "frontend", "backend", "fullstack", "api", "rest", "graphql", "saas", "spa"],
+    "Web Applications": ["web", "webapp", "website", "dashboard", "frontend",
+                         "backend", "fullstack", "api", "rest", "graphql", "saas", "spa"],
     "CLI Tools": ["cli", "command-line", "terminal", "shell", "console", "tui", "bash"],
-    "AI Projects": ["ai", "machine-learning", "deep-learning", "llm", "gpt", "chatbot", "nlp", "computer-vision", "recommendation"],
-    "Developer Tools": ["developer-tools", "devtools", "ide", "editor", "debugger", "profiler", "linter", "formatter", "compiler", "framework"],
+    "AI Projects": ["ai", "machine-learning", "deep-learning", "llm", "gpt", "chatbot",
+                    "nlp", "computer-vision", "recommendation"],
+    "Developer Tools": ["developer-tools", "devtools", "ide", "editor", "debugger",
+                        "profiler", "linter", "formatter", "compiler", "framework"],
     "APIs": ["api", "rest", "graphql", "grpc", "websocket", "sdk", "integration", "webhook"],
     "Automation": ["automation", "workflow", "pipeline", "bot", "scraper", "scheduler", "cron"],
     "Cybersecurity": ["security", "encryption", "auth", "privacy", "penetration-testing", "vulnerability"],
-    "Data Engineering": ["data", "etl", "pipeline", "analytics", "database", "big-data", "streaming", "lake", "warehouse"],
+    "Data Engineering": ["data", "etl", "pipeline", "analytics", "database",
+                         "big-data", "streaming", "lake", "warehouse"],
     "Productivity": ["productivity", "todo", "note", "organizer", "planner", "tracker", "calendar", "habit"],
     "Education": ["education", "learning", "tutorial", "course", "interactive", "teaching", "documentation"],
 }
 
 DIFFICULTY_KEYWORDS: dict[str, list[str]] = {
-    "Beginner": ["beginner", "starter", "simple", "easy", "basic", "tutorial", "getting-started", "hello-world", "learning", "introduction", "first-project", "newbie"],
-    "Advanced": ["advanced", "complex", "distributed", "high-performance", "scalable", "real-time", "production", "enterprise", "kernel", "compiler", "database-engine", "game-engine", "operating-system", "deep-learning", "llm"],
+    "Beginner": ["beginner", "starter", "simple", "easy", "basic", "tutorial",
+                 "getting-started", "hello-world", "learning", "introduction",
+                 "first-project", "newbie"],
+    "Advanced": ["advanced", "complex", "distributed", "high-performance", "scalable",
+                 "real-time", "production", "enterprise", "kernel", "compiler",
+                 "database-engine", "game-engine", "operating-system", "deep-learning", "llm"],
 }
 
 

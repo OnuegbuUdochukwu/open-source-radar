@@ -5,7 +5,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from src.ai.huggingface import HuggingFaceProvider
-from src.models import AIVerdict, DifficultyLevel, RawIdea, SourceType
+from src.models import DifficultyLevel, RawIdea, SourceType
 
 
 @pytest.fixture
@@ -34,7 +34,11 @@ def hf_provider():
 
 class TestHuggingFaceProvider:
     def test_parse_valid_json(self, hf_provider, sample_idea):
-        response_text = '{"approved": true, "confidence": 0.92, "category": "Developer Tools", "difficulty": "Intermediate", "summary": "An AI code review tool", "reasoning": "Legitimate and useful project"}'
+        response_text = (
+            '{"approved": true, "confidence": 0.92, "category": "Developer Tools", '
+            '"difficulty": "Intermediate", "summary": "An AI code review tool", '
+            '"reasoning": "Legitimate and useful project"}'
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.approved is True
         assert verdict.confidence == 0.92
@@ -42,14 +46,21 @@ class TestHuggingFaceProvider:
         assert verdict.difficulty == DifficultyLevel.INTERMEDIATE
 
     def test_parse_json_with_code_fences(self, hf_provider, sample_idea):
-        response_text = "```json\n{\"approved\": true, \"confidence\": 0.85, \"category\": \"Web Development\", \"difficulty\": \"Beginner\", \"summary\": \"A web project\", \"reasoning\": \"Good for learning\"}\n```"
+        response_text = (
+            "```json\n{\"approved\": true, \"confidence\": 0.85, \"category\": \"Web Development\", "
+            "\"difficulty\": \"Beginner\", \"summary\": \"A web project\", "
+            "\"reasoning\": \"Good for learning\"}\n```"
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.approved is True
         assert verdict.confidence == 0.85
         assert verdict.difficulty == DifficultyLevel.BEGINNER
 
     def test_parse_rejected_idea(self, hf_provider, sample_idea):
-        response_text = '{"approved": false, "confidence": 0.3, "category": "Other", "difficulty": "Intermediate", "summary": "", "reasoning": "Spam detected"}'
+        response_text = (
+            '{"approved": false, "confidence": 0.3, "category": "Other", '
+            '"difficulty": "Intermediate", "summary": "", "reasoning": "Spam detected"}'
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.approved is False
         assert verdict.confidence == 0.3
@@ -62,7 +73,11 @@ class TestHuggingFaceProvider:
         assert verdict.reasoning != ""
 
     def test_parse_json_embedded_in_text(self, hf_provider, sample_idea):
-        response_text = "Here is my analysis:\n{\"approved\": true, \"confidence\": 0.75, \"category\": \"CLI Tools\", \"difficulty\": \"Advanced\", \"summary\": \"A CLI tool\", \"reasoning\": \"Interesting project\"}\nHope this helps!"
+        response_text = (
+            "Here is my analysis:\n{\"approved\": true, \"confidence\": 0.75, "
+            "\"category\": \"CLI Tools\", \"difficulty\": \"Advanced\", "
+            "\"summary\": \"A CLI tool\", \"reasoning\": \"Interesting project\"}\nHope this helps!"
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.approved is True
         assert verdict.category == "CLI Tools"
@@ -81,12 +96,18 @@ class TestHuggingFaceProvider:
         assert result is False
 
     def test_parse_difficulty_fallback(self, hf_provider, sample_idea):
-        response_text = '{"approved": true, "confidence": 0.8, "category": "AI/ML", "difficulty": "unknown", "summary": "test", "reasoning": "test"}'
+        response_text = (
+            '{"approved": true, "confidence": 0.8, "category": "AI/ML", '
+            '"difficulty": "unknown", "summary": "test", "reasoning": "test"}'
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.difficulty == DifficultyLevel.INTERMEDIATE  # fallback
 
     def test_parse_confidence_capped(self, hf_provider, sample_idea):
-        response_text = '{"approved": true, "confidence": 1.5, "category": "Web", "difficulty": "Intermediate", "summary": "test", "reasoning": "test"}'
+        response_text = (
+            '{"approved": true, "confidence": 1.5, "category": "Web", '
+            '"difficulty": "Intermediate", "summary": "test", "reasoning": "test"}'
+        )
         verdict = hf_provider._parse_response(response_text, sample_idea)
         assert verdict.confidence <= 1.0
 
