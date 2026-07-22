@@ -6,10 +6,10 @@
 
 ## Stats
 
-- **Total Ideas:** 2675
-- **Approved:** 1983
+- **Total Ideas:** 2672
+- **Approved:** 1976
 - **Categories:** 23
-- **Last Updated:** 2026-07-21 08:16:19.079445
+- **Last Updated:** 2026-07-22 08:16:57.065034
 
 ## Table of Contents
 
@@ -38,333 +38,60 @@
 - [Beginner Friendly](#beginner-friendly)
 - [Other](#other)
 
-## AI/ML
-
-### mmistakes/minimal-mistakes
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** HTML, algolia, algolia-search, github-pages, jekyll
-
-:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-
-[Original Repository](https://github.com/mmistakes/minimal-mistakes) | [Source: Github](https://github.com/mmistakes/minimal-mistakes)
-
-### karpathy/neuraltalk
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python
-
-NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
-
-[Original Repository](https://github.com/karpathy/neuraltalk) | [Source: Github](https://github.com/karpathy/neuraltalk)
-
-### Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library
-**Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** javascript
-
-<a href="https:&#x2F;&#x2F;github.com&#x2F;knadh&#x2F;oat" rel="nofollow">https:&#x2F;&#x2F;github.com&#x2F;knadh&#x2F;oat</a><p>Related: <a href="https:&#x2F;&#x2F;nadh.in&#x2F;blog&#x2F;javascript-ecosystem-software-development-are-a-hot-mess&#x2F;" rel="nofollow">https:&#x2F;&#x2F;nadh.in&#x2F;bl...
-
-[Original Post](https://oat.ink/) | [Source: Hackernews](https://oat.ink/)
-
-### Project Gutenberg is no longer fully blocked in Germany
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-They settled their 2015 lawsuit and will only be blocking these specific works.<p>More information and Background: <a href="https:&#x2F;&#x2F;cand.pglaf.org&#x2F;germany&#x2F;index.html" rel="nofollow">https:&#x2F;&#x2F;cand.pglaf.org&#x2F;germany&#x2F;index.html</a>
-
-[Original Post](https://news.ycombinator.com/item?id=29024039) | [Source: Hackernews](https://news.ycombinator.com/item?id=29024039)
-
-### thecodedealer/JS_CSS_PortfolioProject
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** HTML
-
-
-
-[Original Repository](https://github.com/thecodedealer/JS_CSS_PortfolioProject) | [Source: Github](https://github.com/thecodedealer/JS_CSS_PortfolioProject)
-
-### Jelly UI: Soft-body physics for native HTML form controls
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://jelly-ui.com/) | [Source: Hackernews](https://jelly-ui.com/)
-
-### Building an HTML-first site doubled our users overnight
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://mohkohn.co.uk/writing/html-first/) | [Source: Hackernews](https://mohkohn.co.uk/writing/html-first/)
-
-### Show HN: htmz – a low power tool for HTML
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://leanrada.com/htmz/) | [Source: Hackernews](https://leanrada.com/htmz/)
-
-### UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://unsuckjs.com/) | [Source: Hackernews](https://unsuckjs.com/)
-
-### Tinygrad: A simple and powerful neural network framework
-**Source:** Hackernews | **Difficulty:** Beginner
-
-
-
-[Original Post](https://tinygrad.org/) | [Source: Hackernews](https://tinygrad.org/)
-
-### The downfall of smart TVs: From promises of seamless viewing to ad tool
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://adguard.com/en/blog/smart-tv-ad-blocking.html) | [Source: Hackernews](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
-
-### The OBS project has accused Streamlabs of copying their name and trademark
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://twitter.com/OBSProject/status/1460782968633499651) | [Source: Hackernews](https://twitter.com/OBSProject/status/1460782968633499651)
-
-### Show HN: PDFs from HTML
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](HTTPS://pdf.math.dev) | [Source: Hackernews](HTTPS://pdf.math.dev)
-
-### Htmx – high power tools for HTML
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://htmx.org/) | [Source: Hackernews](https://htmx.org/)
-
-### Lessons learned building an ML trading system
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/) | [Source: Hackernews](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
-
-### Tools we used to create a hit HTML5 game on Steam
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.codecks.io/blog/2019/creating-a-hit-steam-game-in-html5/) | [Source: Hackernews](https://www.codecks.io/blog/2019/creating-a-hit-steam-game-in-html5/)
-
-### List of command line tools for manipulating CSV, XML, HTML, JSON, INI, etc.
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/dbohdan/structured-text-tools) | [Source: Hackernews](https://github.com/dbohdan/structured-text-tools)
-
-### Phaser 3.0: HTML5 game framework
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/photonstorm/phaser) | [Source: Hackernews](https://github.com/photonstorm/phaser)
-
-### LCUI – A small C library for building user interfaces with XML and CSS
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/lc-soft/LCUI) | [Source: Hackernews](https://github.com/lc-soft/LCUI)
-
-### TensorFlow: open-source library for machine intelligence
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](http://tensorflow.org/) | [Source: Hackernews](http://tensorflow.org/)
-
-
 ## Web Applications
 
-### nexu-io/open-design
+### pocketbase/pocketbase
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, agent-skills, ai-agents, ai-design, byok
+**Tech Stack:** Go, authentication, backend, golang, realtime
 
-🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK...
+Open Source realtime backend in 1 file
 
-[Original Repository](https://github.com/nexu-io/open-design) | [Source: Github](https://github.com/nexu-io/open-design)
+[Original Repository](https://github.com/pocketbase/pocketbase) | [Source: Github](https://github.com/pocketbase/pocketbase)
 
-### farion1231/cc-switch
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Rust, ai-tools, claude-code, codex, desktop-app
+### Show HN: I made tool that let's you see everything about any website
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+Yes, it&#x27;s open source: <a href="https:&#x2F;&#x2F;github.com&#x2F;lissy93&#x2F;web-check">https:&#x2F;&#x2F;github.com&#x2F;lissy93&#x2F;web-check</a> :)<p>Why I&#x27;m building this? There are a lot of tools out there for discovering meta and security data relating to a website, IP or server. ...
 
-[Original Repository](https://github.com/farion1231/cc-switch) | [Source: Github](https://github.com/farion1231/cc-switch)
+[Original Post](https://v1.web-check.xyz/) | [Source: Hackernews](https://v1.web-check.xyz/)
 
-### google-gemini/gemini-cli
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, ai, ai-agents, cli, gemini
+### Google had a plan called “Project NERA” to turn the web into a walled garden
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-[Original Repository](https://github.com/google-gemini/gemini-cli) | [Source: Github](https://github.com/google-gemini/gemini-cli)
 
-### c2g-dev/city2graph
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, geoai, geographic-data-science, geographical-information-system, geospatial
+[Original Post](https://twitter.com/fasterthanlime/status/1452053941504684036) | [Source: Hackernews](https://twitter.com/fasterthanlime/status/1452053941504684036)
 
-Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis
+### Show HN: Open source JavaScript library to record and replay the web
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-[Original Repository](https://github.com/c2g-dev/city2graph) | [Source: Github](https://github.com/c2g-dev/city2graph)
 
-### EkiZR/Portofolio_V5
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, dashboard, portofolio, portofolio-website, reactjs
 
-Personal portfolio built with React + Supabase, featuring an admin dashboard for managing projects, certificates, and comments.
+[Original Post](https://www.rrweb.io/) | [Source: Hackernews](https://www.rrweb.io/)
 
-[Original Repository](https://github.com/EkiZR/Portofolio_V5) | [Source: Github](https://github.com/EkiZR/Portofolio_V5)
+### Mo.js: motion graphics toolbelt for the web
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-### DavidHDev/react-bits
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, 3d, animations, component-library, components
 
-An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
-[Original Repository](https://github.com/DavidHDev/react-bits) | [Source: Github](https://github.com/DavidHDev/react-bits)
+[Original Post](https://github.com/legomushroom/mojs) | [Source: Hackernews](https://github.com/legomushroom/mojs)
 
-### iib0011/omni-tools
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, alternative, converter, data-manipulation, developer-tools
+### Writing web applications using only the Go Standard Library
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 
-[Original Repository](https://github.com/iib0011/omni-tools) | [Source: Github](https://github.com/iib0011/omni-tools)
 
-### devoxx/DevoxxGenieIDEAPlugin
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Java, anthropic, azure-ai, chatgpt, chatgpt-api
+[Original Post](https://golang.org/doc/articles/wiki/) | [Source: Hackernews](https://golang.org/doc/articles/wiki/)
 
-DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest version now also supports Spec Driven Development with CLI Runners.
+### Building Web Apps in Go
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-[Original Repository](https://github.com/devoxx/DevoxxGenieIDEAPlugin) | [Source: Github](https://github.com/devoxx/DevoxxGenieIDEAPlugin)
 
-### HeyPuter/puter
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** TypeScript, cloud, cloud-os, cloud-storage, desktop
 
-🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-
-[Original Repository](https://github.com/HeyPuter/puter) | [Source: Github](https://github.com/HeyPuter/puter)
-
-### loco-rs/loco
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Rust, api, axum, rust, rust-lang
-
-🚂 🦀 The one-person framework for Rust for side-projects and startups
-
-[Original Repository](https://github.com/loco-rs/loco) | [Source: Github](https://github.com/loco-rs/loco)
-
-### codebucks27/Next.js-Developer-Portfolio-Starter-Code
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** CSS, framer-motion, framermotion, next-js, nextjs
-
-⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
-
-[Original Repository](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) | [Source: Github](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code)
-
-### mudler/LocalAI
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Go, agents, ai, api, audio-generation
-
-LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-
-[Original Repository](https://github.com/mudler/LocalAI) | [Source: Github](https://github.com/mudler/LocalAI)
-
-### adrianhajdin/project_3D_developer_portfolio
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, 3d, reactjs, threejs
-
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
-
-[Original Repository](https://github.com/adrianhajdin/project_3D_developer_portfolio) | [Source: Github](https://github.com/adrianhajdin/project_3D_developer_portfolio)
-
-### danny-avila/LibreChat
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, ai, anthropic, artifacts, aws
-
-Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User A...
-
-[Original Repository](https://github.com/danny-avila/LibreChat) | [Source: Github](https://github.com/danny-avila/LibreChat)
-
-### revertinc/revert
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** TypeScript, access-token, api, crms, good-first-issue
-
-Revert makes it incredibly easy to build integrations with any third party API
-
-[Original Repository](https://github.com/revertinc/revert) | [Source: Github](https://github.com/revertinc/revert)
-
-### twentyhq/twenty
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, crm, crm-system, customer, good-first-issue
-
-The open alternative to Salesforce, designed for AI.
-
-[Original Repository](https://github.com/twentyhq/twenty) | [Source: Github](https://github.com/twentyhq/twenty)
-
-### juspay/hyperswitch
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Rust, adyen, beginner-friendly, featured, finance
-
-Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observa...
-
-[Original Repository](https://github.com/juspay/hyperswitch) | [Source: Github](https://github.com/juspay/hyperswitch)
-
-### manuelernestog/astrofy
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Astro, astro, astro-template, astrobuild, blog
-
-Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
-
-[Original Repository](https://github.com/manuelernestog/astrofy) | [Source: Github](https://github.com/manuelernestog/astrofy)
-
-### upscayl/upscayl
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, ai, electron, esrgan, gigapixel
-
-🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-
-[Original Repository](https://github.com/upscayl/upscayl) | [Source: Github](https://github.com/upscayl/upscayl)
-
-### jaygajera17/E-commerce-project-springBoot
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Java, e-commerce-project-in-java, eclipse, java, java-ecommerce-system
-
-This project serves as an easy-to-understand setup for beginners , providing a base foundation in Spring Boot , MVC & hibernate.
-
-[Original Repository](https://github.com/jaygajera17/E-commerce-project-springBoot) | [Source: Github](https://github.com/jaygajera17/E-commerce-project-springBoot)
+[Original Post](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html) | [Source: Hackernews](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html)
 
 
 ## Python
-
-### aquadzn/learn-x-by-doing-y
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, algolia, awesome-list, begineer, learning
-
-🛠️ Learn a technology X by doing a project  - Search engine of project-based learning
-
-[Original Repository](https://github.com/aquadzn/learn-x-by-doing-y) | [Source: Github](https://github.com/aquadzn/learn-x-by-doing-y)
-
-### deependersingla/deep_trader
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python
-
-This project uses reinforcement learning on stock market and agent tries to learn trading. The goal is to check if the agent can learn to read tape. The project is dedicated to hero in life great Jesse Livermore. 
-
-[Original Repository](https://github.com/deependersingla/deep_trader) | [Source: Github](https://github.com/deependersingla/deep_trader)
 
 ### DeepSourceCorp/good-first-issue
 **Source:** Github | **Difficulty:** Intermediate
@@ -374,6 +101,35 @@ Make your first open-source contribution.
 
 [Original Repository](https://github.com/DeepSourceCorp/good-first-issue) | [Source: Github](https://github.com/DeepSourceCorp/good-first-issue)
 
+### freqtrade/freqtrade
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Python, algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency
+
+Free, open source crypto trading bot
+
+[Original Repository](https://github.com/freqtrade/freqtrade) | [Source: Github](https://github.com/freqtrade/freqtrade)
+
+### Oban, the job processing framework from Elixir, has come to Python
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.dimamik.com/posts/oban_py/) | [Source: Hackernews](https://www.dimamik.com/posts/oban_py/)
+
+### Hyperflask – Full stack Flask and Htmx framework
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://hyperflask.dev/) | [Source: Hackernews](https://hyperflask.dev/)
+
+### Nvidia Warp: A Python framework for high performance GPU simulation and graphics
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/NVIDIA/warp) | [Source: Hackernews](https://github.com/NVIDIA/warp)
+
 ### SciPy builds for Python 3.12 on Windows are a minor miracle
 **Source:** Hackernews | **Difficulty:** Intermediate
 
@@ -381,12 +137,26 @@ Make your first open-source contribution.
 
 [Original Post](https://labs.quansight.org/blog/building-scipy-with-flang) | [Source: Hackernews](https://labs.quansight.org/blog/building-scipy-with-flang)
 
+### CLI tools hidden in the Python standard library
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://til.simonwillison.net/python/stdlib-cli-tools) | [Source: Hackernews](https://til.simonwillison.net/python/stdlib-cli-tools)
+
 ### Python Standard Library changes in recent years
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://antonz.org/python-stdlib-changes/) | [Source: Hackernews](https://antonz.org/python-stdlib-changes/)
+
+### Rich: A Python library for rich text and formatting in the terminal
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/Textualize/rich) | [Source: Hackernews](https://github.com/Textualize/rich)
 
 ### Official Elasticsearch Python library no longer works with open-source forks
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -451,19 +221,19 @@ Make your first open-source contribution.
 
 [Original Post](http://bokeh.pydata.org/en/latest/) | [Source: Hackernews](http://bokeh.pydata.org/en/latest/)
 
+### Click – Python library for command-line interfaces
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://click.pocoo.org/) | [Source: Hackernews](http://click.pocoo.org/)
+
 ### Python Tools for Visual Studio
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](http://www.hanselman.com/blog/OneOfMicrosoftsBestKeptSecretsPythonToolsForVisualStudioPTVS.aspx) | [Source: Hackernews](http://www.hanselman.com/blog/OneOfMicrosoftsBestKeptSecretsPythonToolsForVisualStudioPTVS.aspx)
-
-### Python Libraries you should know about
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](http://doda.co/7-python-libraries-you-should-know-about) | [Source: Hackernews](http://doda.co/7-python-libraries-you-should-know-about)
 
 
 ## JavaScript
@@ -484,14 +254,6 @@ MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Materi
 
 [Original Repository](https://github.com/mazipan/hello-open-source) | [Source: Github](https://github.com/mazipan/hello-open-source)
 
-### coffee-and-fun/google-profanity-words
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, google, profanity, profanity-detection, profanityfilter
-
-Full list of bad words and top swear words banned by Google. 
-
-[Original Repository](https://github.com/coffee-and-fun/google-profanity-words) | [Source: Github](https://github.com/coffee-and-fun/google-profanity-words)
-
 ### Show HN: Live-updating version of the 'What a week, huh?' meme
 **Source:** Hackernews | **Difficulty:** Intermediate
 **Tech Stack:** JavaScript
@@ -500,13 +262,13 @@ As a fun evening project, I made a live-updating version of the &#x27;What a wee
 
 [Original Post](https://tintin.dlazaro.ca/) | [Source: Hackernews](https://tintin.dlazaro.ca/)
 
-### sindresorhus/project-ideas
+### serhii-londar/open-source-mac-os-apps
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript
+**Tech Stack:** applications, apps, awesome, awesome-list, c
 
-Need a JavaScript module or looking for ideas? Welcome ✨
+🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-[Original Repository](https://github.com/sindresorhus/project-ideas) | [Source: Github](https://github.com/sindresorhus/project-ideas)
+[Original Repository](https://github.com/serhii-londar/open-source-mac-os-apps) | [Source: Github](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ### Sj.h: A tiny little JSON parsing library in ~150 lines of C99
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -528,20 +290,6 @@ Need a JavaScript module or looking for ideas? Welcome ✨
 
 
 [Original Post](https://ollama.ai/blog/python-javascript-libraries) | [Source: Hackernews](https://ollama.ai/blog/python-javascript-libraries)
-
-### Is htmx Just Another JavaScript Framework?
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://htmx.org/essays/is-htmx-another-javascript-framework/) | [Source: Hackernews](https://htmx.org/essays/is-htmx-another-javascript-framework/)
-
-### Learn how modern JavaScript frameworks work by building one
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/) | [Source: Hackernews](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 
 ### Building a high performance JSON parser
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -571,27 +319,6 @@ Need a JavaScript module or looking for ideas? Welcome ✨
 
 [Original Post](https://kellyjonbrazil.github.io/jc/) | [Source: Hackernews](https://kellyjonbrazil.github.io/jc/)
 
-### Four Eras of JavaScript Frameworks
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks) | [Source: Hackernews](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
-
-### Vue.js is Wikimedia Foundation's future JavaScript framework
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/) | [Source: Hackernews](https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/)
-
-### Blitz.js Now in Beta (Batteries Included Framework Built on Next.js)
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://blitzjs.com/) | [Source: Hackernews](https://blitzjs.com/)
-
 ### Please stop using CDNs for external JavaScript libraries
 **Source:** Hackernews | **Difficulty:** Intermediate
 
@@ -613,6 +340,48 @@ Need a JavaScript module or looking for ideas? Welcome ✨
 
 [Original Post](https://nodesign.dev/) | [Source: Hackernews](https://nodesign.dev/)
 
+### Show HN: Grid.js – Advanced table library that works everywhere
+**Source:** Hackernews | **Difficulty:** Advanced
+
+
+
+[Original Post](https://gridjs.io/?hn) | [Source: Hackernews](https://gridjs.io/?hn)
+
+### Solid – A declarative JavaScript library for building user interfaces
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/ryansolid/solid) | [Source: Hackernews](https://github.com/ryansolid/solid)
+
+### Show HN: A tiny isometric city builder in JavaScript
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/victorqribeiro/isocity) | [Source: Hackernews](https://github.com/victorqribeiro/isocity)
+
+### Bling Fire: Finite state machine and regular expression manipulation library
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/Microsoft/BlingFire) | [Source: Hackernews](https://github.com/Microsoft/BlingFire)
+
+### Show HN: I'm 12, learning JS, and wrote Wolfram's cellular automaton in Node
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://bitbucket.org/liamilan/wolfram-cellular-automata) | [Source: Hackernews](https://bitbucket.org/liamilan/wolfram-cellular-automata)
+
+### Show HN: RoughJS – Create hand-drawn graphics using JavaScript
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://roughjs.com/) | [Source: Hackernews](http://roughjs.com/)
+
 
 ## TypeScript
 
@@ -623,14 +392,6 @@ Need a JavaScript module or looking for ideas? Welcome ✨
 The best-benchmarked open-source AI memory system. And it's free.
 
 [Original Repository](https://github.com/MemPalace/mempalace) | [Source: Github](https://github.com/MemPalace/mempalace)
-
-### Yeti-791/Tsec-Hackathon
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, ai-pentesting, ai-security, autonomous-penetration, intelligent-penetration
-
-腾讯云智能渗透黑客松 Official repository of Tencent Cloud Intelligent Penetration Hackathon. Showcasing top open-source projects of LLM-based autonomous penetration agents, including multi-agent collaboration, automated penetration, AI-driven offensive security, and intelligent attack-defense solutions.
-
-[Original Repository](https://github.com/Yeti-791/Tsec-Hackathon) | [Source: Github](https://github.com/Yeti-791/Tsec-Hackathon)
 
 ### jamiepine/voicebox
 **Source:** Github | **Difficulty:** Intermediate
@@ -679,14 +440,6 @@ An open-source cross-platform alternative to AirDrop
 Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 
 [Original Repository](https://github.com/zhayujie/CowAgent) | [Source: Github](https://github.com/zhayujie/CowAgent)
-
-### JeffersonQin/YuzuMarker.FontDetection
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Python, chinese, cjk-characters, cjk-font, cnn
-
-✨ 首个CJK（中日韩）字体识别以及样式提取模型 YuzuMarker的字体识别模型与实现 / First-ever CJK (Chinese Japanese Korean) Font Recognition and Style Extractor, side project of YuzuMarker
-
-[Original Repository](https://github.com/JeffersonQin/YuzuMarker.FontDetection) | [Source: Github](https://github.com/JeffersonQin/YuzuMarker.FontDetection)
 
 ### saadeghi/daisyui
 **Source:** Github | **Difficulty:** Intermediate
@@ -776,72 +529,32 @@ The open-source managed agents platform. Turn coding agents into real teammates 
 
 [Original Repository](https://github.com/multica-ai/multica) | [Source: Github](https://github.com/multica-ai/multica)
 
+### romeojeremiah/javascript-projects-for-beginners
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** CSS, JavaScript
+
+Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
+
+[Original Repository](https://github.com/romeojeremiah/javascript-projects-for-beginners) | [Source: Github](https://github.com/romeojeremiah/javascript-projects-for-beginners)
+
+### h0mbre/Learning-C
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** C
+
+A series of mini-projects used to learn C for beginners
+
+[Original Repository](https://github.com/h0mbre/Learning-C) | [Source: Github](https://github.com/h0mbre/Learning-C)
+
 
 ## React
 
-### deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT
+### dkhamsing/open-source-ios-apps
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, collaborate, communityexchange, css, expressjs
+**Tech Stack:** app, apple, apple-tv, apple-vision-pro, apple-watch
 
-A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven.
+:iphone: Collaborative List of Open-Source iOS Apps
 
-[Original Repository](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT) | [Source: Github](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT)
-
-### ianshulx/React-projects-for-beginners
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, beginner, beginner-friendly, beginner-project, contribution
-
-Are you a beginner eager to enhance your React JS skills? Look no further! This repository is the perfect platform for you to dive into the world of React development and contribute to open source during Hacktoberfest. @Hacktoberfest @ReactJS
-
-[Original Repository](https://github.com/ianshulx/React-projects-for-beginners) | [Source: Github](https://github.com/ianshulx/React-projects-for-beginners)
-
-### makeplane/plane
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, boards, bug-tracker, django, docker
-
-🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-
-[Original Repository](https://github.com/makeplane/plane) | [Source: Github](https://github.com/makeplane/plane)
-
-### usememos/memos
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Go, docker, foss, go, markdown
-
-Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-
-[Original Repository](https://github.com/usememos/memos) | [Source: Github](https://github.com/usememos/memos)
-
-### novuhq/novu
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, agents, communication, email, inbox
-
-The open-source communication infrastructure for agents and products
-
-[Original Repository](https://github.com/novuhq/novu) | [Source: Github](https://github.com/novuhq/novu)
-
-### amruthpillai/reactive-resume
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, better-auth, hacktoberfest, react, resume
-
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-
-[Original Repository](https://github.com/amruthpillai/reactive-resume) | [Source: Github](https://github.com/amruthpillai/reactive-resume)
-
-### freeCodeCamp/freeCodeCamp
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, careers, certification, community, curriculum
-
-freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-
-[Original Repository](https://github.com/freeCodeCamp/freeCodeCamp) | [Source: Github](https://github.com/freeCodeCamp/freeCodeCamp)
-
-### Olanetsoft/awesome-hackathon-projects
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** awesome, awesome-list, hackathon, hacktoberfest, hashnode
-
-This is a curated list of amazing hackathon projects
-
-[Original Repository](https://github.com/Olanetsoft/awesome-hackathon-projects) | [Source: Github](https://github.com/Olanetsoft/awesome-hackathon-projects)
+[Original Repository](https://github.com/dkhamsing/open-source-ios-apps) | [Source: Github](https://github.com/dkhamsing/open-source-ios-apps)
 
 ### Show HN: Performative-UI – A react component library of design tropes
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -850,12 +563,26 @@ hope you enjoy
 
 [Original Post](https://vorpus.github.io/performativeUI/) | [Source: Hackernews](https://vorpus.github.io/performativeUI/)
 
+### Show HN: Nue – Apps lighter than a React button
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://nuejs.org/blog/large-scale-apps/) | [Source: Hackernews](https://nuejs.org/blog/large-scale-apps/)
+
 ### France to Build Six New Nuclear Reactors
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://www.politico.eu/article/france-to-build-6-new-nuclear-reactors/) | [Source: Hackernews](https://www.politico.eu/article/france-to-build-6-new-nuclear-reactors/)
+
+### Macron says France will build new nuclear energy reactors
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/) | [Source: Hackernews](https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/)
 
 ### Utopia, a visual design tool for React, with code as the source of truth
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -871,12 +598,54 @@ hope you enjoy
 
 [Original Post](https://boringavatars.com/) | [Source: Hackernews](https://boringavatars.com/)
 
+### Show HN: A portfolio website simulating macOS's GUI using React
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://portfolio.zxh.io) | [Source: Hackernews](https://portfolio.zxh.io)
+
+### OpenChakra is an open-source visual editor for React
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://openchakra.app) | [Source: Hackernews](https://openchakra.app)
+
+### Building all of our new mobile apps using React Native
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify) | [Source: Hackernews](https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify)
+
 ### Build Your Own React
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://pomb.us/build-your-own-react/) | [Source: Hackernews](https://pomb.us/build-your-own-react/)
+
+### Evergreen: a React UI Framework built by Segment
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://evergreen.segment.com) | [Source: Hackernews](https://evergreen.segment.com)
+
+### ReactXP – A library for building cross-platform apps
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://microsoft.github.io/reactxp/) | [Source: Hackernews](https://microsoft.github.io/reactxp/)
+
+### Blueprint – A React UI toolkit for the web
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://blueprintjs.com/) | [Source: Hackernews](http://blueprintjs.com/)
 
 ### New React Developer Tools
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -899,56 +668,12 @@ hope you enjoy
 
 [Original Post](https://muut.com/riotjs/) | [Source: Hackernews](https://muut.com/riotjs/)
 
+### React, a JavaScript library for building user interfaces
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-## Next.js
 
-### lingdojo/kana-dojo
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** TypeScript, beginner, beginner-friendly, contribute, contribution
 
-Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!
-
-[Original Repository](https://github.com/lingdojo/kana-dojo) | [Source: Github](https://github.com/lingdojo/kana-dojo)
-
-### adrianhajdin/yc_directory
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, nextjs, nextjs15, react19, Nextjs
-
-This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissions, Unstable After for background tasks, Server Component HMR Cache for faster development, and Partial Prerendering for performance optimization.
-
-[Original Repository](https://github.com/adrianhajdin/yc_directory) | [Source: Github](https://github.com/adrianhajdin/yc_directory)
-
-### shyamtawli/devFind
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, add-data, beginner, css, good-first-issue
-
-devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-
-[Original Repository](https://github.com/shyamtawli/devFind) | [Source: Github](https://github.com/shyamtawli/devFind)
-
-### shadcn-ui/ui
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, base-ui, components, laravel, nextjs
-
-A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
-[Original Repository](https://github.com/shadcn-ui/ui) | [Source: Github](https://github.com/shadcn-ui/ui)
-
-### f/prompts.chat
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** HTML, ai, artificial-intelligence, awesome-list, chatgpt
-
-f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-[Original Repository](https://github.com/f/prompts.chat) | [Source: Github](https://github.com/f/prompts.chat)
-
-### calcom/cal.diy
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, next-auth, nextjs, open-source, postgresql
-
-Scheduling infrastructure for absolutely everyone.
-
-[Original Repository](https://github.com/calcom/cal.diy) | [Source: Github](https://github.com/calcom/cal.diy)
+[Original Post](http://facebook.github.io/react/) | [Source: Hackernews](http://facebook.github.io/react/)
 
 
 ## Rust
@@ -1027,13 +752,6 @@ A tiny JVM written in Rust. Learning project
 
 [Original Post](https://hydro.run/docs/hydro/) | [Source: Hackernews](https://hydro.run/docs/hydro/)
 
-### Rust needs a web framework
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/) | [Source: Hackernews](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-
 ### Jiff: Datetime library for Rust
 **Source:** Hackernews | **Difficulty:** Intermediate
 
@@ -1090,39 +808,22 @@ A tiny JVM written in Rust. Learning project
 
 [Original Post](https://serde.rs/) | [Source: Hackernews](https://serde.rs/)
 
-### Seed – A Rust front-end framework for creating fast and reliable web apps
+### Iced: A cross-platform GUI library for Rust, inspired by Elm
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
-[Original Post](https://github.com/seed-rs/seed) | [Source: Hackernews](https://github.com/seed-rs/seed)
+[Original Post](https://github.com/hecrj/iced/) | [Source: Hackernews](https://github.com/hecrj/iced/)
+
+### Bevy: A data-driven game engine and app framework built in Rust
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://bevyengine.org/news/introducing-bevy/) | [Source: Hackernews](https://bevyengine.org/news/introducing-bevy/)
 
 
 ## Go
-
-### aaif-goose/goose
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Rust, acp, ai, ai-agents, mcp
-
-an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-[Original Repository](https://github.com/aaif-goose/goose) | [Source: Github](https://github.com/aaif-goose/goose)
-
-### danielmiessler/Fabric
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Go, ai, augmentation, flourishing, life
-
-Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-
-[Original Repository](https://github.com/danielmiessler/Fabric) | [Source: Github](https://github.com/danielmiessler/Fabric)
-
-### topoteretes/cognee
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Python, agent-memory, agent-skills, ai, ai-agents
-
-Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
-
-[Original Repository](https://github.com/topoteretes/cognee) | [Source: Github](https://github.com/topoteretes/cognee)
 
 ### fastruby/skunk
 **Source:** Github | **Difficulty:** Intermediate
@@ -1131,30 +832,6 @@ Cognee is the open-source AI memory platform for agents. Give your AI agents per
 A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 
 [Original Repository](https://github.com/fastruby/skunk) | [Source: Github](https://github.com/fastruby/skunk)
-
-### wasmerio/Python-Scripts
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, blackhatpython, coding, good-first-issue, hacktoberfest
-
-A curated list of python scripts for automating your tasks
-
-[Original Repository](https://github.com/wasmerio/Python-Scripts) | [Source: Github](https://github.com/wasmerio/Python-Scripts)
-
-### google/styleguide
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** HTML, cpplint, style-guide, styleguide
-
-Style guides for Google-originated open-source projects
-
-[Original Repository](https://github.com/google/styleguide) | [Source: Github](https://github.com/google/styleguide)
-
-### cirosantilli/china-dictatorship
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** HTML, 996, censorship, censorship-circumvention, china
-
-反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit.  Home to the mega-FAQ,...
-
-[Original Repository](https://github.com/cirosantilli/china-dictatorship) | [Source: Github](https://github.com/cirosantilli/china-dictatorship)
 
 ### godotengine/godot
 **Source:** Github | **Difficulty:** Advanced
@@ -1172,14 +849,6 @@ Run x86 and x86-64 games on RISC‑V Linux
 
 [Original Repository](https://github.com/OFFTKP/felix86) | [Source: Github](https://github.com/OFFTKP/felix86)
 
-### EddieHubCommunity/good-first-issue-finder
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Svelte, hacktoberfest, svelte, sveltekit, tailwind
-
-Issue-Crawler for GitHub based on Sveltekit
-
-[Original Repository](https://github.com/EddieHubCommunity/good-first-issue-finder) | [Source: Github](https://github.com/EddieHubCommunity/good-first-issue-finder)
-
 ### syncthing/syncthing
 **Source:** Github | **Difficulty:** Intermediate
 **Tech Stack:** Go, go, p2p, peer-to-peer, synchronization
@@ -1195,71 +864,129 @@ Open Source Continuous File Synchronization
 
 [Original Post](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html) | [Source: Hackernews](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 
-### Show HN: I made a new sensor out of 3D printer filament for my PhD
-**Source:** Hackernews | **Difficulty:** Beginner
-**Tech Stack:** go
-
-Here&#x27;s a &quot;behind-the-scenes&quot; look at my development of a cool sensor during my PhD (electrical engineering). This sensor is only about 1&#x2F;3 of my total research for my degree and took about a year.<p>I&#x27;ve been on HN for a while now and I&#x27;ve seen my fair share of posts ab...
-
-[Original Post](https://paulbupejr.com/developing-the-optigap-sensor-system/) | [Source: Hackernews](https://paulbupejr.com/developing-the-optigap-sensor-system/)
-
-### Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Hey folks! We&#x27;re Alex and Evan, and we&#x27;re working on putting together a 512 H100 compute cluster for startups and researchers to train large generative models on.
-  - it runs at the lowest possible margins (&lt;$2.00&#x2F;hr per H100)
-  - designed for bursty training runs, so you can take ...
-
-[Original Post](https://sfcompute.org/) | [Source: Hackernews](https://sfcompute.org/)
-
-### Show HN: I trained an AI model on 120M+ songs from iTunes
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Hey HN!<p>I just shipped a project I’ve been working on called Maroofy: <a href="https:&#x2F;&#x2F;maroofy.com" rel="nofollow">https:&#x2F;&#x2F;maroofy.com</a><p>You can search for any song, and it’ll use the song’s audio to find other similar-sounding music.<p>Demo: <a href="https:&#x2F;&#x2F;twit...
-
-[Original Post](https://maroofy.com/?hn=v3) | [Source: Hackernews](https://maroofy.com/?hn=v3)
-
-### Ask HN: Those making $0/month or less on side projects – Show and tell
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Not sure about anyone else, but I enjoy seeing the posts on side projects making money. Often while reading all of the comments I find new products or services I want, so I buy them and contribute further to that hustle&#x27;s success. But for every hacker making $100 or more per month with their id...
-
-[Original Post](https://news.ycombinator.com/item?id=34547265) | [Source: Hackernews](https://news.ycombinator.com/item?id=34547265)
-
-### Show HN: New AI edits images based on text instructions
-**Source:** Hackernews | **Difficulty:** Beginner
-**Tech Stack:** python
-
-This works suprisingly well.  Just give it instructions like &quot;make it winter&quot; or &quot;remove the cars&quot; and the photo is altered.<p>Here are some examples of transformations it can make:
-Golden gate bridge: <a href="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;brycedrennan&#x2F;im...
-
-[Original Post](https://github.com/brycedrennan/imaginAIry/blob/master/README.md) | [Source: Hackernews](https://github.com/brycedrennan/imaginAIry/blob/master/README.md)
-
-### Ask HN: Side projects that are making money, but you'd not talk about them?
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-One night in 2013 I had this stupid idea that people would start searching google for &quot;who is retargeting me&quot; just like they do with &quot;what&#x27;s my ip&quot; — I&#x27;ve created in 30 minutes, bought the domain whoisretargeting.me and put Google Ads. It&#x27;s made €7000 in 7 years. (...
-
-[Original Post](https://news.ycombinator.com/item?id=23438930) | [Source: Hackernews](https://news.ycombinator.com/item?id=23438930)
-
-### meanands/heroku-free-alternatives
+### hkirat/gsoc-good-first-issues
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** baas, good-first-issue, heroku, paas-services, Redis
 
-Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
+Good first issues for GSoC 2023
 
-[Original Repository](https://github.com/meanands/heroku-free-alternatives) | [Source: Github](https://github.com/meanands/heroku-free-alternatives)
+[Original Repository](https://github.com/hkirat/gsoc-good-first-issues) | [Source: Github](https://github.com/hkirat/gsoc-good-first-issues)
 
-### stephrobert/awesome-french-devops
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** ansible, awesome, awesome-list, awesome-lists, devops
+### Good Tools Are Invisible
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 
-[Original Repository](https://github.com/stephrobert/awesome-french-devops) | [Source: Github](https://github.com/stephrobert/awesome-french-devops)
+
+[Original Post](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) | [Source: Hackernews](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
+
+### Project Nomad – Knowledge That Never Goes Offline
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.projectnomad.us) | [Source: Hackernews](https://www.projectnomad.us)
+
+### UUID package coming to Go standard library
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/golang/go/issues/62026) | [Source: Hackernews](https://github.com/golang/go/issues/62026)
+
+### Fuzzing Ladybird with tools from Google Project Zero
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from) | [Source: Hackernews](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
+
+### Ente: Open-Source, E2E Encrypted, Google Photos Alternative
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://ente.io/) | [Source: Hackernews](https://ente.io/)
+
+### How to start a Go project in 2023
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://boyter.org/posts/how-to-start-go-project-2023/) | [Source: Hackernews](https://boyter.org/posts/how-to-start-go-project-2023/)
+
+### Purego – A library for calling C functions from Go without Cgo
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/ebitengine/purego) | [Source: Hackernews](https://github.com/ebitengine/purego)
+
+### Builder's Remedy goes into effect in many California cities tomorrow
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers) | [Source: Hackernews](https://darrellowens.substack.com/p/ca-cities-to-lose-all-zoning-powers)
+
+### CS 168: The Modern Algorithmic Toolbox
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://web.stanford.edu/class/cs168/index.html) | [Source: Hackernews](https://web.stanford.edu/class/cs168/index.html)
+
+### Actual is going open-source
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://actualbudget.com/open-source) | [Source: Hackernews](https://actualbudget.com/open-source)
+
+### Moreutils: A collection of Unix tools that nobody thought to write long ago
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://joeyh.name/code/moreutils/) | [Source: Hackernews](https://joeyh.name/code/moreutils/)
+
+### Google Had Secret Project to ‘Convince’ Employees ‘That Unions Suck’
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck) | [Source: Hackernews](https://www.vice.com/en/article/v7d7j9/google-had-secret-project-to-convince-employees-that-unions-suck)
+
+### macOS Monterey's new network quality tool is surprisingly good
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html) | [Source: Hackernews](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
+
+### Google's Secret Initiative – “Project Hug”
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://twitter.com/jowens510/status/1428415192480698371) | [Source: Hackernews](https://twitter.com/jowens510/status/1428415192480698371)
 
 
 ## Developer Tools
+
+### techarkit/shell-scripting-tutorial
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Shell, bash, linux, linux-command, loop
+
+A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea.
+
+[Original Repository](https://github.com/techarkit/shell-scripting-tutorial) | [Source: Github](https://github.com/techarkit/shell-scripting-tutorial)
+
+### coffee-and-fun/google-profanity-words
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript, google, profanity, profanity-detection, profanityfilter
+
+Full list of bad words and top swear words banned by Google. 
+
+[Original Repository](https://github.com/coffee-and-fun/google-profanity-words) | [Source: Github](https://github.com/coffee-and-fun/google-profanity-words)
 
 ### x64dbg/x64dbg
 **Source:** Github | **Difficulty:** Intermediate
@@ -1268,6 +995,22 @@ Une liste de liens permettant de se former aux outils utilisés dans le domaine 
 An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 [Original Repository](https://github.com/x64dbg/x64dbg) | [Source: Github](https://github.com/x64dbg/x64dbg)
+
+### TheCruZ/EFI_Driver_Access
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** C
+
+Efi Driver Access is a simply project to load a driver during system boot with the idea to give the user kernel access for read/write memory without restrictions
+
+[Original Repository](https://github.com/TheCruZ/EFI_Driver_Access) | [Source: Github](https://github.com/TheCruZ/EFI_Driver_Access)
+
+### SpecialCyCi/AndroidResideMenu
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Java
+
+The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution. 
+
+[Original Repository](https://github.com/SpecialCyCi/AndroidResideMenu) | [Source: Github](https://github.com/SpecialCyCi/AndroidResideMenu)
 
 ### mpeltonen/sbt-idea
 **Source:** Github | **Difficulty:** Beginner
@@ -1305,12 +1048,41 @@ Trangram is a free one-stop platform to create, and share motion graphics and sv
 
 [Original Post](https://www.trangram.com) | [Source: Hackernews](https://www.trangram.com)
 
+### Show HN: OpenAPI DevTools – Chrome extension that generates an API spec
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website.
+
+[Original Post](https://github.com/AndrewWalsh/openapi-devtools) | [Source: Hackernews](https://github.com/AndrewWalsh/openapi-devtools)
+
+### Ask HN: Side project of more than $2k monthly revenue? what's your project?
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+I plan on starting a side project but don&#x27;t really have a niche yet.<p>I am interested in knowing what business you run is it a mobile app, website, Saas?<p>And how long it took you to reach $2k monthly revenue?
+
+[Original Post](https://news.ycombinator.com/item?id=35567822) | [Source: Hackernews](https://news.ycombinator.com/item?id=35567822)
+
+### Show HN: A color picker for named web colors
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+I had this idea kicking around in my head for quite a while.  Took an evening to make this, and a short morning to polish it a bit.  So here it is!
+
+[Original Post](https://arantius.github.io/web-color-wheel/) | [Source: Hackernews](https://arantius.github.io/web-color-wheel/)
+
 ### Show HN: hue.tools – open-source toolbox for colors
 **Source:** Hackernews | **Difficulty:** Beginner
 
 hue.tools was created after spending way to much time trying to find the right tools when working with colors.<p>It&#x27;s an attempt to create a simple but useful toolbox for common color related tasks and problems.<p>While it&#x27;s in no way perfect or provides the tools for every use case, it ha...
 
 [Original Post](https://hue.tools) | [Source: Hackernews](https://hue.tools)
+
+### Ask HN: Which tools have made you a much better programmer?
+**Source:** Hackernews | **Difficulty:** Advanced
+
+Getting better at coding is usually a long, slow process of study and practice. However, sometimes I run into something that&#x27;s easy to understand and, once I&#x27;m using it, feels like I&#x27;ve leveled up.<p>A few personal examples are: 
+* version control - specifically, reading up on git and...
+
+[Original Post](https://news.ycombinator.com/item?id=23468193) | [Source: Hackernews](https://news.ycombinator.com/item?id=23468193)
 
 ### Ask HN: Looking for side project ideas
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1319,6 +1091,13 @@ Hi HN,
 As I programmer I lack ideas what side project ideas should i try to make skillset strong
 
 [Original Post](https://news.ycombinator.com/item?id=23290536) | [Source: Hackernews](https://news.ycombinator.com/item?id=23290536)
+
+### Ask HN: How can I pick a side project and stick with it?
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+I&#x27;m a web developer and DevOps engineer. I know a few languages and frameworks very well, I can find my way around with a good deal of other languages and frameworks, and I&#x27;d like to learn a lot more.<p>My problem is that I cannot seem to be able to pick a project (any project) and stick w...
+
+[Original Post](https://news.ycombinator.com/item?id=22792829) | [Source: Hackernews](https://news.ycombinator.com/item?id=22792829)
 
 ### Ask HN: I will pay you $2000 and code the MVP for your side-project
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1334,75 +1113,13 @@ Feasible, organic software project ideas that are suitable for all developers, i
 
 [Original Repository](https://github.com/Gear61/Software-Project-Ideas) | [Source: Github](https://github.com/Gear61/Software-Project-Ideas)
 
-### KelvinQiu802/project-ideas
+### sindresorhus/project-ideas
 **Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript
 
-集合优质的项目仓库，找到适合你的项目。
+Need a JavaScript module or looking for ideas? Welcome ✨
 
-[Original Repository](https://github.com/KelvinQiu802/project-ideas) | [Source: Github](https://github.com/KelvinQiu802/project-ideas)
-
-### Framework's 10G Ethernet module exposes USB-C's complexity
-**Source:** Hackernews | **Difficulty:** Advanced
-
-
-
-[Original Post](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) | [Source: Hackernews](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
-
-### It's OK to abandon your side-project (2024)
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://robbowen.digital/wrote-about/abandoned-side-projects/) | [Source: Hackernews](https://robbowen.digital/wrote-about/abandoned-side-projects/)
-
-### Framework Laptop 13 Pro
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://frame.work/laptop13pro) | [Source: Hackernews](https://frame.work/laptop13pro)
-
-### LÖVE: 2D Game Framework for Lua
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/love2d/love) | [Source: Hackernews](https://github.com/love2d/love)
-
-### We tasked Opus 4.6 using agent teams to build a C Compiler
-**Source:** Hackernews | **Difficulty:** Advanced
-
-
-
-[Original Post](https://www.anthropic.com/engineering/building-c-compiler) | [Source: Hackernews](https://www.anthropic.com/engineering/building-c-compiler)
-
-### Oban, the job processing framework from Elixir, has come to Python
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.dimamik.com/posts/oban_py/) | [Source: Hackernews](https://www.dimamik.com/posts/oban_py/)
-
-### I'm a laptop weirdo and that's why I like my new Framework 13
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/) | [Source: Hackernews](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
-
-### I'm returning my Framework 16
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://yorickpeterse.com/articles/im-returning-my-framework-16/) | [Source: Hackernews](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
-
-### Valdi – A cross-platform UI framework that delivers native performance
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/Snapchat/Valdi) | [Source: Hackernews](https://github.com/Snapchat/Valdi)
+[Original Repository](https://github.com/sindresorhus/project-ideas) | [Source: Github](https://github.com/sindresorhus/project-ideas)
 
 
 ## CLI Tools
@@ -1423,19 +1140,19 @@ A Declarative Update Policy Engine
 
 [Original Repository](https://github.com/updatecli/updatecli) | [Source: Github](https://github.com/updatecli/updatecli)
 
+### Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+<a href="https:&#x2F;&#x2F;console.cloud.google.com&#x2F;agent-platform&#x2F;publishers&#x2F;google&#x2F;model-garden&#x2F;gemini-3.6-flash" rel="nofollow">https:&#x2F;&#x2F;console.cloud.google.com&#x2F;agent-platform&#x2F;publishers&#x2F;g...</a>
+
+[Original Post](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) | [Source: Hackernews](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+
 ### TUI Studio – visual terminal UI design tool
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://tui.studio/) | [Source: Hackernews](https://tui.studio/)
-
-### CLI tools hidden in the Python standard library
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://til.simonwillison.net/python/stdlib-cli-tools) | [Source: Hackernews](https://til.simonwillison.net/python/stdlib-cli-tools)
 
 ### macOS command-line tools you might not know about
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1458,40 +1175,12 @@ A Declarative Update Policy Engine
 
 [Original Post](https://github.com/pedrozath/coltrane) | [Source: Hackernews](https://github.com/pedrozath/coltrane)
 
-### Textual TUI framework for Python adds CSS renderer
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.textualize.io/blog/posts/textual-0-point-2-point-0) | [Source: Hackernews](https://www.textualize.io/blog/posts/textual-0-point-2-point-0)
-
-### Things I've learned building a modern TUI framework
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.textualize.io/blog/posts/7-things-about-terminals) | [Source: Hackernews](https://www.textualize.io/blog/posts/7-things-about-terminals)
-
-### Rich: A Python library for rich text and formatting in the terminal
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/Textualize/rich) | [Source: Hackernews](https://github.com/Textualize/rich)
-
 ### Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://github.com/DidierRLopes/GamestonkTerminal) | [Source: Hackernews](https://github.com/DidierRLopes/GamestonkTerminal)
-
-### Show HN: Igel – A CLI tool to run machine learning without writing code
-**Source:** Hackernews | **Difficulty:** Beginner
-
-
-
-[Original Post](https://github.com/nidhaloff/igel) | [Source: Hackernews](https://github.com/nidhaloff/igel)
 
 ### Building a BitTorrent client from the ground up in Go
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1514,26 +1203,12 @@ A Declarative Update Policy Engine
 
 [Original Post](https://projectvesta.org/) | [Source: Hackernews](https://projectvesta.org/)
 
-### Show HN: A retro video game console I've been working on in my free time
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://internalregister.github.io/2019/03/14/Homebrew-Console.html) | [Source: Hackernews](https://internalregister.github.io/2019/03/14/Homebrew-Console.html)
-
 ### Show HN: Sublime Merge – A Git client from the makers of Sublime Text
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://www.sublimemerge.com) | [Source: Hackernews](https://www.sublimemerge.com)
-
-### Bash Infinity: Standard library and boilerplate framework for Bash
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/niieani/bash-oo-framework) | [Source: Hackernews](https://github.com/niieani/bash-oo-framework)
 
 ### Show HN: Termtosvg – Record terminal sessions as SVG animations
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1542,81 +1217,165 @@ A Declarative Update Policy Engine
 
 [Original Post](https://github.com/nbedos/termtosvg) | [Source: Hackernews](https://github.com/nbedos/termtosvg)
 
-### A curated list of Terminal frameworks, plugins and resources
+### Command-line tools can be faster than your Hadoop cluster
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
-[Original Post](https://github.com/k4m4/terminals-are-sexy) | [Source: Hackernews](https://github.com/k4m4/terminals-are-sexy)
+[Original Post](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) | [Source: Hackernews](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
 
 ## APIs
 
-### supabase/supabase-py
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, auth, authentication, authorization, community
-
-Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
-
-[Original Repository](https://github.com/supabase/supabase-py) | [Source: Github](https://github.com/supabase/supabase-py)
-
-### files-community/Files
+### loco-rs/loco
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** C#, alternatives, csharp, customization, developer-tools
+**Tech Stack:** Rust, api, axum, rust, rust-lang
 
-A modern file manager that helps users organize their files and folders.
+🚂 🦀 The one-person framework for Rust for side-projects and startups
 
-[Original Repository](https://github.com/files-community/Files) | [Source: Github](https://github.com/files-community/Files)
+[Original Repository](https://github.com/loco-rs/loco) | [Source: Github](https://github.com/loco-rs/loco)
 
-### TheCruZ/EFI_Driver_Access
+### revertinc/revert
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** TypeScript, access-token, api, crms, good-first-issue
+
+Revert makes it incredibly easy to build integrations with any third party API
+
+[Original Repository](https://github.com/revertinc/revert) | [Source: Github](https://github.com/revertinc/revert)
+
+### digoarthur/github-automated-repos
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, attached, developer-portfolio, frontend-developers, github-api
+
+The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
+
+[Original Repository](https://github.com/digoarthur/github-automated-repos) | [Source: Github](https://github.com/digoarthur/github-automated-repos)
+
+### juspay/hyperswitch
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C
+**Tech Stack:** Rust, adyen, beginner-friendly, featured, finance
 
-Efi Driver Access is a simply project to load a driver during system boot with the idea to give the user kernel access for read/write memory without restrictions
+Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observa...
 
-[Original Repository](https://github.com/TheCruZ/EFI_Driver_Access) | [Source: Github](https://github.com/TheCruZ/EFI_Driver_Access)
+[Original Repository](https://github.com/juspay/hyperswitch) | [Source: Github](https://github.com/juspay/hyperswitch)
 
-### Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986
+### arifszn/gitprofile
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, academic, academic-porfolio, academic-website, developer-portfolio
+
+🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+
+[Original Repository](https://github.com/arifszn/gitprofile) | [Source: Github](https://github.com/arifszn/gitprofile)
+
+### refinedev/refine
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, admin, admin-ui, ant-design, crud
+
+A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+
+[Original Repository](https://github.com/refinedev/refine) | [Source: Github](https://github.com/refinedev/refine)
+
+### payloadcms/payload
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, cms, content-management, content-management-system, express
+
+Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+
+[Original Repository](https://github.com/payloadcms/payload) | [Source: Github](https://github.com/payloadcms/payload)
+
+### hoppscotch/hoppscotch
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, api, api-client, api-rest, api-testing
+
+Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+[Original Repository](https://github.com/hoppscotch/hoppscotch) | [Source: Github](https://github.com/hoppscotch/hoppscotch)
+
+### brettchalupa/graphql-docs
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Ruby, documentation, good-first-issue, graphql, ruby
+
+Easily generate beautiful documentation from your GraphQL schema.
+
+[Original Repository](https://github.com/brettchalupa/graphql-docs) | [Source: Github](https://github.com/brettchalupa/graphql-docs)
+
+### 521xueweihan/HelloGitHub
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Python, awesome, github, hellogithub, python
+
+:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+[Original Repository](https://github.com/521xueweihan/HelloGitHub) | [Source: Github](https://github.com/521xueweihan/HelloGitHub)
+
+### Kong/insomnia
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, api, api-client, api-design, curl
+
+The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+
+[Original Repository](https://github.com/Kong/insomnia) | [Source: Github](https://github.com/Kong/insomnia)
+
+### strapi/strapi
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, api, cms, cms-framework, content-management
+
+🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+
+[Original Repository](https://github.com/strapi/strapi) | [Source: Github](https://github.com/strapi/strapi)
+
+### commons-app/apps-android-commons
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Kotlin, android, commons, good-first-issue, gsoc
+
+The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
+
+[Original Repository](https://github.com/commons-app/apps-android-commons) | [Source: Github](https://github.com/commons-app/apps-android-commons)
+
+### elastic/elasticsearch
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Java, elasticsearch, java, search-engine
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+[Original Repository](https://github.com/elastic/elasticsearch) | [Source: Github](https://github.com/elastic/elasticsearch)
+
+### jantic/DeOldify
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Python
+
+A Deep Learning based project for colorizing and restoring old images (and video!)
+
+[Original Repository](https://github.com/jantic/DeOldify) | [Source: Github](https://github.com/jantic/DeOldify)
+
+### public-apis/public-apis
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Python, api, apis, dataset, development
+
+A collective list of free APIs
+
+[Original Repository](https://github.com/public-apis/public-apis) | [Source: Github](https://github.com/public-apis/public-apis)
+
+### Show HN: Homebrew 6.0.0
 **Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** Jenkins
 
-Hello my name is Ben Ward for the past 3 years I have been remastering the financial game Wall Street Raider created by Michael Jenkins originally on DOS in 1986.<p>It has been a rough journey but I finally see the light at the end of the tunnel. I just recently redid the website and thought maybe t...
+Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved perform...
 
-[Original Post](https://www.wallstreetraider.com/story.html) | [Source: Hackernews](https://www.wallstreetraider.com/story.html)
+[Original Post](https://brew.sh/2026/06/11/homebrew-6.0.0/) | [Source: Hackernews](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 
-### Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker
+### Show HN: Ten years of running every day, visualized
+**Source:** Hackernews | **Difficulty:** Beginner
+**Tech Stack:** NextJS, Redis
+
+Today marks ten years, 3653 consecutive days, of running at least one mile every day under the USRSA rules [1]. To celebrate, I built an interactive dashboard that turns a decade of GPX files into charts you can explore.<p>Running has truly changed my life: I&#x27;ve made lifelong friends, explored ...
+
+[Original Post](https://nodaysoff.run) | [Source: Hackernews](https://nodaysoff.run)
+
+### Show HN: I built an app to stop me doomscrolling by touching grass
 **Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** Docker
 
-Hi HN, creator of Wealthfolio here.<p>A year ago, I posted the first version. Since then, the app has matured significantly with two major updates:<p>1. Multi-platform Support: 
-Now available on Mobile (iOS), Desktop (macOS, Windows, Linux), and as a Self-hosted Docker image.
-(Android coming soon).<...
+i wanted to change the habit of reaching for my phone in the morning and doomscrolling away an hour so i built an app to help me. now i have to literally touch grass before accessing my most distracting apps<p>the app is built in swiftui, uses the screen time apis provided by apple and google vision...
 
-[Original Post](https://wealthfolio.app/?v=2.0) | [Source: Hackernews](https://wealthfolio.app/?v=2.0)
-
-### Show HN: Unregistry – “docker push” directly to servers without a registry
-**Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** Docker, docker
-
-I got tired of the push-to-registry&#x2F;pull-from-registry dance every time I needed to deploy a Docker image.<p>In certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there&#x27;s already a form of registry present on any of your D...
-
-[Original Post](https://github.com/psviderski/unregistry) | [Source: Hackernews](https://github.com/psviderski/unregistry)
-
-### Show HN: Factorio Learning Environment – Agents Build Factories
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** Python, Docker
-
-I&#x27;m Jack, and I&#x27;m excited to share a project that has channeled my Factorio addiction recently: the Factorio Learning Environment (FLE).<p>FLE is an open-source framework for developing and evaluating LLM agents in Factorio. It provides a controlled environment where AI models can attempt ...
-
-[Original Post](https://jackhopkins.github.io/factorio-learning-environment/) | [Source: Hackernews](https://jackhopkins.github.io/factorio-learning-environment/)
-
-### Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby
-**Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, React, Nextjs, Docker, AWS
-
-Hi HN, we’re Sam, Shane, and Abhi, and we’re building Mastra (<a href="https:&#x2F;&#x2F;mastra.ai">https:&#x2F;&#x2F;mastra.ai</a>), an open-source JavaScript SDK for building agents on top of Vercel’s AI SDK.<p>You can start a Mastra project with `npm create mastra` and create workflow graphs that...
-
-[Original Post](https://github.com/mastra-ai/mastra) | [Source: Hackernews](https://github.com/mastra-ai/mastra)
+[Original Post](https://touchgrass.now/) | [Source: Hackernews](https://touchgrass.now/)
 
 ### Show HN: I built the most over-engineered Deal With It emoji generator
 **Source:** Hackernews | **Difficulty:** Beginner
@@ -1625,88 +1384,6 @@ Hi, all! Author here. What started as a small tool I built for a job interview, 
 - Uses machine learning models (MediaPipe Face Detect...
 
 [Original Post](https://emoji.build/deal-with-it-generator/) | [Source: Hackernews](https://emoji.build/deal-with-it-generator/)
-
-### Show HN: Meet.hn – Meet the Hacker News community in your city
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Hey HN!<p>I just published <a href="https:&#x2F;&#x2F;meet.hn" rel="nofollow">https:&#x2F;&#x2F;meet.hn</a>, a map to find hackers in your city.<p>How it works?<p>Demo of the signup process: <a href="https:&#x2F;&#x2F;x.com&#x2F;meet_hn&#x2F;status&#x2F;1834918518904746329" rel="nofollow">https:&#x2...
-
-[Original Post](https://news.ycombinator.com/item?id=41539125) | [Source: Hackernews](https://news.ycombinator.com/item?id=41539125)
-
-### Show HN: Hatchet – Open-source distributed task queue
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** Python, Redis
-
-Hello HN, we&#x27;re Gabe and Alexander from Hatchet (<a href="https:&#x2F;&#x2F;hatchet.run">https:&#x2F;&#x2F;hatchet.run</a>), we&#x27;re working on an open-source, distributed task queue. It&#x27;s an alternative to tools like Celery for Python and BullMQ for Node.js, primarily focused on reliab...
-
-[Original Post](https://github.com/hatchet-dev/hatchet) | [Source: Hackernews](https://github.com/hatchet-dev/hatchet)
-
-### Show HN: OpenAPI DevTools – Chrome extension that generates an API spec
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website.
-
-[Original Post](https://github.com/AndrewWalsh/openapi-devtools) | [Source: Hackernews](https://github.com/AndrewWalsh/openapi-devtools)
-
-### Show HN: I spent 2 years building a personal finance simulator
-**Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** go, Docker
-
-Hey everyone! After another year of building as a solo dev on nights and weekends, I&#x27;m back with an update on this post: <a href="https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=31083093">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=31083093</a>.<p>TL;DR - ProjectionLab (<a href="htt...
-
-[Original Post](https://projectionlab.com/) | [Source: Hackernews](https://projectionlab.com/)
-
-### Show HN: Open-source resume builder and parser
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Hi HN, I recently created and published an open-source resume builder as a weekend project. The idea came to me while I was mentoring students and noticing common mistakes they made in their resumes that I had also made in the past. I thought to build a tool to help people easily create a modern pro...
-
-[Original Post](https://www.open-resume.com/) | [Source: Hackernews](https://www.open-resume.com/)
-
-### Ask HN: Side project of more than $2k monthly revenue? what's your project?
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-I plan on starting a side project but don&#x27;t really have a niche yet.<p>I am interested in knowing what business you run is it a mobile app, website, Saas?<p>And how long it took you to reach $2k monthly revenue?
-
-[Original Post](https://news.ycombinator.com/item?id=35567822) | [Source: Hackernews](https://news.ycombinator.com/item?id=35567822)
-
-### Show HN: We’re open-sourcing our session replay tool
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** Go, Typescript
-
-Hey HN! We’re open-sourcing highlight.io (<a href="https:&#x2F;&#x2F;github.com&#x2F;highlight&#x2F;highlight">https:&#x2F;&#x2F;github.com&#x2F;highlight&#x2F;highlight</a>), a session replay and error monitoring tool. Highlight.io gives you a high-precision video-like replay of what users are doin...
-
-[Original Post](https://github.com/highlight/highlight) | [Source: Hackernews](https://github.com/highlight/highlight)
-
-### Show HN: A little side project, a watercolor art generator
-**Source:** Hackernews | **Difficulty:** Beginner
-**Tech Stack:** Python, NextJS, Docker
-
-Hi HN - this is a little side project I threw together. Some implementation details: image processing is all done with headless GIMP (running inside a Docker container) through its built-in Python API. It&#x27;s _very_ slow (about 50 seconds&#x2F;image), and currently it processes exactly one image ...
-
-[Original Post](https://brushify.art/?couponCode=HACKER-NEWS) | [Source: Hackernews](https://brushify.art/?couponCode=HACKER-NEWS)
-
-### Show HN: I 3D scanned the interior of the Great Pyramid at Giza
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Hey HN, I 3d scanned the interior of the Great Pyramid &#x2F; Khufu&#x27;s pyramid for the Giza Project this summer and just finished the guided version to share. Would love feedback and&#x2F;or problems you encounter.<p>I used both a Leica BLK 360 and Matterport Pro 2 to do the scanning and the Mat...
-
-[Original Post](https://giza.mused.org/en/guided/266/inside-the-great-pyramid) | [Source: Hackernews](https://giza.mused.org/en/guided/266/inside-the-great-pyramid)
-
-### Show HN: InvokeAI, an open source Stable Diffusion toolkit and WebUI
-**Source:** Hackernews | **Difficulty:** Advanced
-
-Hey everyone!<p>Excited to be able to share the release of `InvokeAI 2.0 - A Stable Diffusion Toolkit`, an open source project that aims to provide both enthusiasts and professionals a suite of robust image creation tools. Optimized for efficiency, InvokeAI needs only ~3.5GB of VRAM to generate a 51...
-
-[Original Post](https://github.com/invoke-ai/InvokeAI) | [Source: Hackernews](https://github.com/invoke-ai/InvokeAI)
-
-### Show HN: Crawlee – Web scraping and browser automation library for Node.js
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** TypeScript
-
-Hey HN,<p>This is Jan, founder of Apify, a web scraping and automation platform. Drawing on our team&#x27;s years of experience, today we&#x27;re launching Crawlee [1], the web scraping and browser automation library for Node.js that&#x27;s designed for the fastest development and maximum reliabilit...
-
-[Original Post](https://crawlee.dev/) | [Source: Hackernews](https://crawlee.dev/)
 
 
 ## DevOps
@@ -1865,42 +1542,6 @@ For developers, who are building real-time data-driven applications, Redis is th
 
 [Original Post](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/) | [Source: Hackernews](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
 
-### Build your own database
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Content source: Designing Data-Intensive Applications
-<a href="https:&#x2F;&#x2F;www.oreilly.com&#x2F;library&#x2F;view&#x2F;designing-data-intensive-applications&#x2F;9781491903063&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.oreilly.com&#x2F;library&#x2F;view&#x2F;designing-data-intensiv...</a>
-
-[Original Post](https://www.nan.fyi/database) | [Source: Hackernews](https://www.nan.fyi/database)
-
-### Show HN: I made tool that let's you see everything about any website
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-Yes, it&#x27;s open source: <a href="https:&#x2F;&#x2F;github.com&#x2F;lissy93&#x2F;web-check">https:&#x2F;&#x2F;github.com&#x2F;lissy93&#x2F;web-check</a> :)<p>Why I&#x27;m building this? There are a lot of tools out there for discovering meta and security data relating to a website, IP or server. ...
-
-[Original Post](https://v1.web-check.xyz/) | [Source: Hackernews](https://v1.web-check.xyz/)
-
-### Hacker wipes Romania's land registry database
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) | [Source: Hackernews](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
-
-### The EU is about to sell our most sensitive data to the US for visa-free travel
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/) | [Source: Hackernews](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
-
-### Datastar: Web Framework for the Future?
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://chrismalek.me/posts/data-star-first-impressions/) | [Source: Hackernews](https://chrismalek.me/posts/data-star-first-impressions/)
-
 ### Smallpond – A lightweight data processing framework built on DuckDB and 3FS
 **Source:** Hackernews | **Difficulty:** Intermediate
 
@@ -1928,13 +1569,6 @@ Yes, it&#x27;s open source: <a href="https:&#x2F;&#x2F;github.com&#x2F;lissy93&#
 
 
 [Original Post](https://blog.railway.com/p/data-center-build-part-one) | [Source: Hackernews](https://blog.railway.com/p/data-center-build-part-one)
-
-### Automerge: A library of data structures for building collaborative applications
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://automerge.org/) | [Source: Hackernews](https://automerge.org/)
 
 ### An open source initiative to share and compare heat pump performance data
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -1992,48 +1626,125 @@ Yes, it&#x27;s open source: <a href="https:&#x2F;&#x2F;github.com&#x2F;lissy93&#
 
 [Original Post](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html) | [Source: Hackernews](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
 
+### Common libraries and data structures for C
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/tezc/sc) | [Source: Hackernews](https://github.com/tezc/sc)
+
+### Things I learned from building a production database
+**Source:** Hackernews | **Difficulty:** Advanced
+
+
+
+[Original Post](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html) | [Source: Hackernews](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
+
+### Prettymaps: Small Python library to draw customized maps from OpenStreetMap data
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://github.com/marceloprates/prettymaps) | [Source: Hackernews](https://github.com/marceloprates/prettymaps)
+
+### Building a data team at a mid-stage startup
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) | [Source: Hackernews](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+
+### I wrote one of the fastest DataFrame libraries
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/) | [Source: Hackernews](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+
+### Fire declared in OVH SBG2 datacentre building
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://travaux.ovh.net/?do=details&id=49471&) | [Source: Hackernews](http://travaux.ovh.net/?do=details&id=49471&)
+
 
 ## Automation
 
-### santifer/career-ops
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, ai, ai-agent, anthropic, ats
+### Show HN: Craftplan – I built my wife a production management tool for her bakery
+**Source:** Hackernews | **Difficulty:** Advanced
+**Tech Stack:** PostgreSQL
 
-Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+My wife was planning to open a micro-bakery. We looked at production management software and it was all either expensive or way too generic. The actual workflows for a small-batch manufacturer aren&#x27;t that complex, so I built one and open-sourced it.<p>Craftplan handles recipes (versioned BOMs w...
 
-[Original Repository](https://github.com/santifer/career-ops) | [Source: Github](https://github.com/santifer/career-ops)
+[Original Post](https://github.com/puemos/craftplan) | [Source: Hackernews](https://github.com/puemos/craftplan)
 
-### calesthio/OpenMontage
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, agent, agentic-ai, ai, claude
+### Show HN: After 2.5 years on my side project, it has hit £500/month revenue
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+It&#x27;s been a long slow hog and I almost gave up a few times (more than a few) but when covid hit this year it gave me some time to really focus on my product. There were stupid user journey things that I knew needed fixed. There were some features I knew needed added. And I knew the pricing was ...
 
-[Original Repository](https://github.com/calesthio/OpenMontage) | [Source: Github](https://github.com/calesthio/OpenMontage)
+[Original Post](https://news.ycombinator.com/item?id=25372464) | [Source: Hackernews](https://news.ycombinator.com/item?id=25372464)
 
-### HKUDS/nanobot
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, ai, ai-agent, ai-agents, anthropic
+### Oomwoo, an open-source robot vacuum you build yourself
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-Lightweight, open-source AI agent for your tools, chats, and workflows.
 
-[Original Repository](https://github.com/HKUDS/nanobot) | [Source: Github](https://github.com/HKUDS/nanobot)
 
-### usestrix/strix
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, agents, ai-hacking, ai-penetration-testing, ai-pentesting
+[Original Post](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) | [Source: Hackernews](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 
-Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+### Open Source Farming Robot
+**Source:** Hackernews | **Difficulty:** Intermediate
 
-[Original Repository](https://github.com/usestrix/strix) | [Source: Github](https://github.com/usestrix/strix)
 
-### bytedance/deer-flow
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, agent, agentic, agentic-framework, agentic-workflow
 
-An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+[Original Post](https://farm.bot/) | [Source: Hackernews](https://farm.bot/)
 
-[Original Repository](https://github.com/bytedance/deer-flow) | [Source: Github](https://github.com/bytedance/deer-flow)
+### OpenCat: Open-source robotic pet quadruped framework
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework) | [Source: Hackernews](https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+
+### Build tools around workflows, not workflows around tools
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://thesephist.com/posts/tools/) | [Source: Hackernews](https://thesephist.com/posts/tools/)
+
+### Open-Source Home Automation
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.home-assistant.io/) | [Source: Hackernews](https://www.home-assistant.io/)
+
+### Growing a cron job monitoring side project into a real business
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.indiehackers.com/businesses/cronitor) | [Source: Hackernews](https://www.indiehackers.com/businesses/cronitor)
+
+### Microsoft Bot Framework
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://dev.botframework.com/) | [Source: Hackernews](https://dev.botframework.com/)
+
+
+## Mobile
+
+### EkiZR/Portofolio_V5
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript, dashboard, portofolio, portofolio-website, reactjs
+
+Personal portfolio built with React + Supabase, featuring an admin dashboard for managing projects, certificates, and comments.
+
+[Original Repository](https://github.com/EkiZR/Portofolio_V5) | [Source: Github](https://github.com/EkiZR/Portofolio_V5)
 
 ### bluewave-labs/Checkmate
 **Source:** Github | **Difficulty:** Advanced
@@ -2043,145 +1754,6 @@ Checkmate is an open-source, self-hosted tool designed to track and monitor serv
 
 [Original Repository](https://github.com/bluewave-labs/Checkmate) | [Source: Github](https://github.com/bluewave-labs/Checkmate)
 
-### digoarthur/github-automated-repos
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, attached, developer-portfolio, frontend-developers, github-api
-
-The library, ReactJS, that gives you the power to control your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!
-
-[Original Repository](https://github.com/digoarthur/github-automated-repos) | [Source: Github](https://github.com/digoarthur/github-automated-repos)
-
-### KRTirtho/spotube
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Dart, android, android-client, android-music-player, desktop-client
-
-🎧 Open source music streaming app! Available for both desktop & mobile!
-
-[Original Repository](https://github.com/KRTirtho/spotube) | [Source: Github](https://github.com/KRTirtho/spotube)
-
-### mathworks/MATLAB-Simulink-Challenge-Project-Hub
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** HTML, ai, autonomous, capstone, capstone-project
-
-This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.
-
-[Original Repository](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) | [Source: Github](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
-
-### Abhinav-26/DevOps-Projects
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** CSS, auto-deployment, auto-wesite-deployment, automation, continuous-delivery
-
-The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.
-
-[Original Repository](https://github.com/Abhinav-26/DevOps-Projects) | [Source: Github](https://github.com/Abhinav-26/DevOps-Projects)
-
-### SkalskiP/ILearnDeepLearning.py
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, computer-vision, deep-learning, deep-learning-tutorial, neural-network
-
-This repository contains small projects related to Neural Networks and Deep Learning in general. Subjects are closely linekd with articles I publish on Medium. I encourage you both to read as well as to check how the code works in the action.
-
-[Original Repository](https://github.com/SkalskiP/ILearnDeepLearning.py) | [Source: Github](https://github.com/SkalskiP/ILearnDeepLearning.py)
-
-### py-why/EconML
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, causal-inference, causality, econometrics, economics
-
-ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics...
-
-[Original Repository](https://github.com/py-why/EconML) | [Source: Github](https://github.com/py-why/EconML)
-
-### Spandan-Madan/DeepLearningProject
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** HTML, deep-learning, machine-learning, neural-networks, tutorial
-
-An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
-
-[Original Repository](https://github.com/Spandan-Madan/DeepLearningProject) | [Source: Github](https://github.com/Spandan-Madan/DeepLearningProject)
-
-### opf/openproject
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Ruby, agile-development, angular, bcf, boards
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐Star us ...
-
-[Original Repository](https://github.com/opf/openproject) | [Source: Github](https://github.com/opf/openproject)
-
-### unclecode/crawl4ai
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python
-
-🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-
-[Original Repository](https://github.com/unclecode/crawl4ai) | [Source: Github](https://github.com/unclecode/crawl4ai)
-
-### WillKoehrsen/machine-learning-project-walkthrough
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Jupyter Notebook, Python
-
-An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all the steps of a machine learning pipeline come together to solve a problem!
-
-[Original Repository](https://github.com/WillKoehrsen/machine-learning-project-walkthrough) | [Source: Github](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)
-
-### freqtrade/freqtrade
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Python, algorithmic-trading, bitcoin, cryptocurrencies, cryptocurrency
-
-Free, open source crypto trading bot
-
-[Original Repository](https://github.com/freqtrade/freqtrade) | [Source: Github](https://github.com/freqtrade/freqtrade)
-
-### gradle/gradle
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Groovy, build-tool, good-first-issue, gradle, gradle-bt
-
-Adaptable, fast automation for all
-
-[Original Repository](https://github.com/gradle/gradle) | [Source: Github](https://github.com/gradle/gradle)
-
-### Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks
-**Source:** Hackernews | **Difficulty:** Advanced
-
-Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to loca...
-
-[Original Post](https://github.com/antoinezambelli/forge) | [Source: Hackernews](https://github.com/antoinezambelli/forge)
-
-### Show HN: Jido 2.0, Elixir Agent Framework
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** ReAct
-
-Hi HN!<p>I&#x27;m the author of an Elixir Agent Framework called Jido. We reached our 2.0 release this week, shipping a production-hardened framework to build, manage and run Agents on the BEAM.<p>Jido now supports a host of Agentic features, including:<p>- Tool Calling and Agent Skills
-- Comprehens...
-
-[Original Post](https://jido.run/blog/jido-2-0-is-here) | [Source: Hackernews](https://jido.run/blog/jido-2-0-is-here)
-
-
-## Mobile
-
-### Fincept-Corporation/FinceptTerminal
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C++, ai-agents, algorithmic-trading, bloomberg-terminal, cpp
-
-FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-
-[Original Repository](https://github.com/Fincept-Corporation/FinceptTerminal) | [Source: Github](https://github.com/Fincept-Corporation/FinceptTerminal)
-
-### infiniflow/ragflow
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Go, agent-harness, agentic-ai, agentic-retrieval, agentic-search
-
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-[Original Repository](https://github.com/infiniflow/ragflow) | [Source: Github](https://github.com/infiniflow/ragflow)
-
-### traceloop/openllmetry
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, artifical-intelligence, datascience, generative-ai, good-first-issue
-
-Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-
-[Original Repository](https://github.com/traceloop/openllmetry) | [Source: Github](https://github.com/traceloop/openllmetry)
-
 ### chen08209/FlClash
 **Source:** Github | **Difficulty:** Beginner
 **Tech Stack:** Dart, clash, clash-meta, flutter, hysteria
@@ -2190,13 +1762,13 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 [Original Repository](https://github.com/chen08209/FlClash) | [Source: Github](https://github.com/chen08209/FlClash)
 
-### kishanrajput23/Java-Projects-Collections
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Java, java, java-8, java-maven-ecs, java-programming
+### adrianhajdin/project_3D_developer_portfolio
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript, 3d, reactjs, threejs
 
-A curated collection of diverse Java projects, showcasing various concepts, techniques, and applications. Ideal for learning, reference, and exploring different areas of Java programming from beginner exercises to advanced applications.
+The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
 
-[Original Repository](https://github.com/kishanrajput23/Java-Projects-Collections) | [Source: Github](https://github.com/kishanrajput23/Java-Projects-Collections)
+[Original Repository](https://github.com/adrianhajdin/project_3D_developer_portfolio) | [Source: Github](https://github.com/adrianhajdin/project_3D_developer_portfolio)
 
 ### ShisatoYano/AutonomousVehicleControlBeginnersGuide
 **Source:** Github | **Difficulty:** Beginner
@@ -2206,13 +1778,181 @@ Python sample codes and documents about Autonomous vehicle control algorithm. Th
 
 [Original Repository](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) | [Source: Github](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
 
-### AykutSarac/jsoncrack.com
+### TowhidKashem/snapchat-clone
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, csv, diagrams, graph, json
+**Tech Stack:** TypeScript, augementedreality, camera, clone, cypress
 
-✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
+👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 
-[Original Repository](https://github.com/AykutSarac/jsoncrack.com) | [Source: Github](https://github.com/AykutSarac/jsoncrack.com)
+[Original Repository](https://github.com/TowhidKashem/snapchat-clone) | [Source: Github](https://github.com/TowhidKashem/snapchat-clone)
+
+### fulls1z3/universal
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** TypeScript, angular, angular-cli, aot, cache
+
+Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer
+
+[Original Repository](https://github.com/fulls1z3/universal) | [Source: Github](https://github.com/fulls1z3/universal)
+
+### manuelbieh/react-ssr-setup
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** TypeScript, babel, css-modules, eslint, express
+
+React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
+
+[Original Repository](https://github.com/manuelbieh/react-ssr-setup) | [Source: Github](https://github.com/manuelbieh/react-ssr-setup)
+
+### metabase/metabase
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Clojure, analytics, bi, business-intelligence, businessintelligence
+
+The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+[Original Repository](https://github.com/metabase/metabase) | [Source: Github](https://github.com/metabase/metabase)
+
+### grafana/grafana
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, alerting, analytics, business-intelligence, dashboard
+
+The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+
+[Original Repository](https://github.com/grafana/grafana) | [Source: Github](https://github.com/grafana/grafana)
+
+### Albert-Z-Guo/Deep-Reinforcement-Stock-Trading
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Jupyter Notebook
+
+A light-weight deep reinforcement learning framework for portfolio management. This project explores the possibility of applying deep reinforcement learning algorithms to stock trading in a highly modular and scalable framework.
+
+[Original Repository](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) | [Source: Github](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading)
+
+### diafygi/gnu-pricing
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** CSS
+
+Turn GNU command line tools into SaaS (Stupid Hackathon Project)
+
+[Original Repository](https://github.com/diafygi/gnu-pricing) | [Source: Github](https://github.com/diafygi/gnu-pricing)
+
+### nprapps/app-template
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript
+
+The NPR visuals team's opinionated project template for client-side apps.
+
+[Original Repository](https://github.com/nprapps/app-template) | [Source: Github](https://github.com/nprapps/app-template)
+
+### expo/expo
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, android, app-framework, expo, framework
+
+An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+
+[Original Repository](https://github.com/expo/expo) | [Source: Github](https://github.com/expo/expo)
+
+### Show HN: 22 GB of Hacker News in SQLite
+**Source:** Hackernews | **Difficulty:** Intermediate
+**Tech Stack:** Go, sqlite
+
+Community, All the HN belong to you. This is an archive of hacker news that fits in your browser. When I made HN Made of Primes I realized I could probably do this offline sqlite&#x2F;wasm thing with the whole GBs of archive. The whole dataset. So I tried it, and this is it. Have Hacker News on your...
+
+[Original Post](https://hackerbook.dosaygo.com) | [Source: Hackernews](https://hackerbook.dosaygo.com)
+
+### Build your own database
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+Content source: Designing Data-Intensive Applications
+<a href="https:&#x2F;&#x2F;www.oreilly.com&#x2F;library&#x2F;view&#x2F;designing-data-intensive-applications&#x2F;9781491903063&#x2F;" rel="nofollow">https:&#x2F;&#x2F;www.oreilly.com&#x2F;library&#x2F;view&#x2F;designing-data-intensiv...</a>
+
+[Original Post](https://www.nan.fyi/database) | [Source: Hackernews](https://www.nan.fyi/database)
+
+### Show HN: Free, in-browser PDF editor
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+Add text, input boxes, pictures, signatures, delete pages, merge PDFs and password protect them. All happening in the browser, 100% free and no sign-up.
+
+[Original Post](https://breezepdf.com) | [Source: Hackernews](https://breezepdf.com)
+
+### Show HN: Seven39, a social media app that is only open for 3 hours every evening
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+I built this site as a quick test if a time boxed social media experience feels better than an endless one. So far I&#x27;ve just been using it with friends and it feels nice, but it seems like it is time to bring it to a larger audience.<p>Let me know what you think! It is just based on EST for now...
+
+[Original Post](https://www.seven39.com) | [Source: Hackernews](https://www.seven39.com)
+
+### Show HN: Atlas of Space
+**Source:** Hackernews | **Difficulty:** Beginner
+
+Hello HN! Sharing a recent side project of mine, the Atlas of Space, that I built out to explore the Solar System.<p>As a long-time space nerd, I realized recently that I didn&#x27;t have a good intuition on the scale, speed, and relative orientation of the celestial bodies around us. So over the br...
+
+[Original Post](https://atlasof.space/) | [Source: Hackernews](https://atlasof.space/)
+
+### Show HN: Graphite, a Blender-inspired 2D procedural design Rust app
+**Source:** Hackernews | **Difficulty:** Intermediate
+**Tech Stack:** Rust
+
+For the past three years I&#x27;ve been building what I hope will be the next Blender, tackling the lack of any good 2D design or image editing tools outside the Adobe monopoly. This was our first year participating in Google Summer of Code and this Q3 update includes the big payoff from that, cover...
+
+[Original Post](https://graphite.rs/) | [Source: Hackernews](https://graphite.rs/)
+
+
+## Java
+
+### lingdojo/kana-dojo
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** TypeScript, beginner, beginner-friendly, contribute, contribution
+
+Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!
+
+[Original Repository](https://github.com/lingdojo/kana-dojo) | [Source: Github](https://github.com/lingdojo/kana-dojo)
+
+### iib0011/omni-tools
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, alternative, converter, data-manipulation, developer-tools
+
+Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+
+[Original Repository](https://github.com/iib0011/omni-tools) | [Source: Github](https://github.com/iib0011/omni-tools)
+
+### HeyPuter/puter
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** TypeScript, cloud, cloud-os, cloud-storage, desktop
+
+🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+
+[Original Repository](https://github.com/HeyPuter/puter) | [Source: Github](https://github.com/HeyPuter/puter)
+
+### ianshulx/React-projects-for-beginners
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** JavaScript, beginner, beginner-friendly, beginner-project, contribution
+
+Are you a beginner eager to enhance your React JS skills? Look no further! This repository is the perfect platform for you to dive into the world of React development and contribute to open source during Hacktoberfest. @Hacktoberfest @ReactJS
+
+[Original Repository](https://github.com/ianshulx/React-projects-for-beginners) | [Source: Github](https://github.com/ianshulx/React-projects-for-beginners)
+
+### NotHarshhaa/DevOps-Projects
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Java, aws, beginner-friendly, devops, devops-learning
+
+🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.
+
+[Original Repository](https://github.com/NotHarshhaa/DevOps-Projects) | [Source: Github](https://github.com/NotHarshhaa/DevOps-Projects)
+
+### kishanrajput23/Java-Projects-Collections
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Java, java, java-8, java-maven-ecs, java-programming
+
+A curated collection of diverse Java projects, showcasing various concepts, techniques, and applications. Ideal for learning, reference, and exploring different areas of Java programming from beginner exercises to advanced applications.
+
+[Original Repository](https://github.com/kishanrajput23/Java-Projects-Collections) | [Source: Github](https://github.com/kishanrajput23/Java-Projects-Collections)
+
+### jaygajera17/E-commerce-project-springBoot
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Java, e-commerce-project-in-java, eclipse, java, java-ecommerce-system
+
+This project serves as an easy-to-understand setup for beginners , providing a base foundation in Spring Boot , MVC & hibernate.
+
+[Original Repository](https://github.com/jaygajera17/E-commerce-project-springBoot) | [Source: Github](https://github.com/jaygajera17/E-commerce-project-springBoot)
 
 ### adrianhajdin/project_professional_portfolio
 **Source:** Github | **Difficulty:** Beginner
@@ -2222,13 +1962,13 @@ This is a code repository for the corresponding YouTube video. In this tutorial 
 
 [Original Repository](https://github.com/adrianhajdin/project_professional_portfolio) | [Source: Github](https://github.com/adrianhajdin/project_professional_portfolio)
 
-### Dapp-Learning-DAO/Dapp-Learning
+### miaowmiaow/fragmject
 **Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Solidity, blockchain, dapp, ethereum
+**Tech Stack:** Kotlin, android, calendar, compose, jetpack-compose
 
-Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
+fragmject is a learning project prepared for Kotlin and Jetpack Compose. | fragmject 是一个为初学者准备的上手项目。 通过对 Kotlin 和 Compose 的系统运用，实现的一个功能完备符合主流市场标准 App。  fragmject 没有复杂的业务和多余的封装， 完全依照 Android Developer 官方的写法。 代码简单，内容全面，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。
 
-[Original Repository](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | [Source: Github](https://github.com/Dapp-Learning-DAO/Dapp-Learning)
+[Original Repository](https://github.com/miaowmiaow/fragmject) | [Source: Github](https://github.com/miaowmiaow/fragmject)
 
 ### coollabsio/coolify
 **Source:** Github | **Difficulty:** Intermediate
@@ -2238,89 +1978,6 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 
 [Original Repository](https://github.com/coollabsio/coolify) | [Source: Github](https://github.com/coollabsio/coolify)
 
-### SigNoz/signoz
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** TypeScript, apm, application-monitoring, distributed-tracing, go
-
-SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) i...
-
-[Original Repository](https://github.com/SigNoz/signoz) | [Source: Github](https://github.com/SigNoz/signoz)
-
-### nylo-core/nylo
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Dart, apps, boilerplate, dart, development
-
-Nylo is the fastest way to build your next Flutter mobile app. Streamline your projects with Nylo's opinionated approach to building Flutter apps. Develop your next idea  ⚡️
-
-[Original Repository](https://github.com/nylo-core/nylo) | [Source: Github](https://github.com/nylo-core/nylo)
-
-### KartikChugh/Otto
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** JavaScript, artificial-intelligence, automl, chat-application, deep-learning
-
-Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All Languages) on GitHub
-
-[Original Repository](https://github.com/KartikChugh/Otto) | [Source: Github](https://github.com/KartikChugh/Otto)
-
-### AkoWu101/flutter_starter_kit
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Dart, android, flutter, flutter-bloc, flutter-demo
-
-A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a flutter project. This starter kit build an App Store app as a example
-
-[Original Repository](https://github.com/AkoWu101/flutter_starter_kit) | [Source: Github](https://github.com/AkoWu101/flutter_starter_kit)
-
-### tucan9389/awesome-ml-demos-with-ios
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, awesome, coreml, demo, inference
-
-The challenge projects for Inferencing machine learning models on iOS
-
-[Original Repository](https://github.com/tucan9389/awesome-ml-demos-with-ios) | [Source: Github](https://github.com/tucan9389/awesome-ml-demos-with-ios)
-
-### techarkit/shell-scripting-tutorial
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Shell, bash, linux, linux-command, loop
-
-A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea.
-
-[Original Repository](https://github.com/techarkit/shell-scripting-tutorial) | [Source: Github](https://github.com/techarkit/shell-scripting-tutorial)
-
-### Yink/Amadeus
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Java, steins-gate, steinsgate
-
-A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
-
-[Original Repository](https://github.com/Yink/Amadeus) | [Source: Github](https://github.com/Yink/Amadeus)
-
-### minecraft-dev/MinecraftDev
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Kotlin, architectury, bukkit, bungeecord, fabricmc
-
-Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
-
-[Original Repository](https://github.com/minecraft-dev/MinecraftDev) | [Source: Github](https://github.com/minecraft-dev/MinecraftDev)
-
-### ShareX/ShareX
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** C#, avalonia, capture, color-picker, csharp
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-[Original Repository](https://github.com/ShareX/ShareX) | [Source: Github](https://github.com/ShareX/ShareX)
-
-### freeplane/freeplane
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Java, groovy-scripts, java, knowledge-management, latex
-
-Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
-
-[Original Repository](https://github.com/freeplane/freeplane) | [Source: Github](https://github.com/freeplane/freeplane)
-
-
-## Java
-
 ### abhpd/hacktoberfest2021
 **Source:** Github | **Difficulty:** Beginner
 **Tech Stack:** Java, active, beginner-friendly, c, cpp
@@ -2328,22 +1985,6 @@ Application for Mind Mapping, Knowledge Management, Project Management. Develop,
 🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends | 
 
 [Original Repository](https://github.com/abhpd/hacktoberfest2021) | [Source: Github](https://github.com/abhpd/hacktoberfest2021)
-
-### thinkswell/javascript-mini-projects
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, awesome, beginner, beginner-friendly, beginners-friendly
-
-Awesome Collection of amazing javascript mini-projects.
-
-[Original Repository](https://github.com/thinkswell/javascript-mini-projects) | [Source: Github](https://github.com/thinkswell/javascript-mini-projects)
-
-### OpenSourceTogether/Hacktoberfest-2020
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, awesome, beginner, beginner-friendly, digitalocean
-
-:octocat: Welcome to Open-source! Simply add your details to contributors | Repo for Hacktoberfest 2020 ✅
-
-[Original Repository](https://github.com/OpenSourceTogether/Hacktoberfest-2020) | [Source: Github](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 
 ### miroiu/nodify
 **Source:** Github | **Difficulty:** Intermediate
@@ -2353,6 +1994,22 @@ Highly performant and modular controls for node-based editors designed for data-
 
 [Original Repository](https://github.com/miroiu/nodify) | [Source: Github](https://github.com/miroiu/nodify)
 
+### responsively-org/responsively-app
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, contributions-welcome, desktop-app, developer-tools, electron
+
+A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+
+[Original Repository](https://github.com/responsively-org/responsively-app) | [Source: Github](https://github.com/responsively-org/responsively-app)
+
+### AkoWu101/flutter_starter_kit
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Dart, android, flutter, flutter-bloc, flutter-demo
+
+A starter kit for beginner learns with Bloc pattern, RxDart, sqflite, Fluro and Dio to architect a flutter project. This starter kit build an App Store app as a example
+
+[Original Repository](https://github.com/AkoWu101/flutter_starter_kit) | [Source: Github](https://github.com/AkoWu101/flutter_starter_kit)
+
 ### knaxus/problem-solving-javascript
 **Source:** Github | **Difficulty:** Beginner
 **Tech Stack:** JavaScript, algorithm, algorithms-and-data-structures, beginner, beginner-code
@@ -2361,13 +2018,13 @@ Highly performant and modular controls for node-based editors designed for data-
 
 [Original Repository](https://github.com/knaxus/problem-solving-javascript) | [Source: Github](https://github.com/knaxus/problem-solving-javascript)
 
-### Syknapse/Contribute-To-This-Project
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, beginners, community, contributions, contributions-welcome
+### RipMeApp/ripme
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Java, album, archival, archive, archiver
 
-This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.
+Downloads albums from the web in bulk for archive purposes
 
-[Original Repository](https://github.com/Syknapse/Contribute-To-This-Project) | [Source: Github](https://github.com/Syknapse/Contribute-To-This-Project)
+[Original Repository](https://github.com/RipMeApp/ripme) | [Source: Github](https://github.com/RipMeApp/ripme)
 
 ### triplea-game/triplea
 **Source:** Github | **Difficulty:** Intermediate
@@ -2377,6 +2034,14 @@ TripleA is a turn based strategy game and board game engine, similar to Axis & A
 
 [Original Repository](https://github.com/triplea-game/triplea) | [Source: Github](https://github.com/triplea-game/triplea)
 
+### freeCodeCamp/freeCodeCamp
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, careers, certification, community, curriculum
+
+freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+[Original Repository](https://github.com/freeCodeCamp/freeCodeCamp) | [Source: Github](https://github.com/freeCodeCamp/freeCodeCamp)
+
 ### up-for-grabs/up-for-grabs.net
 **Source:** Github | **Difficulty:** Intermediate
 **Tech Stack:** JavaScript, good-first-issue, help-wanted, javascript, ruby
@@ -2385,95 +2050,13 @@ This is a list of projects which have curated tasks specifically for new contrib
 
 [Original Repository](https://github.com/up-for-grabs/up-for-grabs.net) | [Source: Github](https://github.com/up-for-grabs/up-for-grabs.net)
 
-### timqian/sideproject.guide
+### freeplane/freeplane
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, guide, guidelines, sideproject
+**Tech Stack:** Java, groovy-scripts, java, knowledge-management, latex
 
-Notes on how to build side projects
+Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 
-[Original Repository](https://github.com/timqian/sideproject.guide) | [Source: Github](https://github.com/timqian/sideproject.guide)
-
-### cutenode/good-first-issue
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** JavaScript, beginner-friendly, cli, community, github
-
-🖥 CLI for finding good first issues
-
-[Original Repository](https://github.com/cutenode/good-first-issue) | [Source: Github](https://github.com/cutenode/good-first-issue)
-
-### videojs/video.js
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, dash, hls, html, html5
-
-Video.js - open source HTML5 video player
-
-[Original Repository](https://github.com/videojs/video.js) | [Source: Github](https://github.com/videojs/video.js)
-
-### Show HN: I built a tiny LLM to demystify how language models work
-**Source:** Hackernews | **Difficulty:** Advanced
-
-Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.
-
-[Original Post](https://github.com/arman-bd/guppylm) | [Source: Hackernews](https://github.com/arman-bd/guppylm)
-
-### Show HN: Strange Attractors
-**Source:** Hackernews | **Difficulty:** Beginner
-
-I went down the rabbit hole on a side project and ended up building this: Strange Attractors(<a href="https:&#x2F;&#x2F;blog.shashanktomar.com&#x2F;posts&#x2F;strange-attractors" rel="nofollow">https:&#x2F;&#x2F;blog.shashanktomar.com&#x2F;posts&#x2F;strange-attractors</a>). It’s built with three.js...
-
-[Original Post](https://blog.shashanktomar.com/posts/strange-attractors) | [Source: Hackernews](https://blog.shashanktomar.com/posts/strange-attractors)
-
-### Show HN: LLMs can generate valid JSON 100% of the time
-**Source:** Hackernews | **Difficulty:** Advanced
-**Tech Stack:** Python
-
-Outlines is a Python library that focuses on text generation with large language models. Brandon and I are not LLM experts and started the project a few months ago because we wanted to understand better how the generation process works. Our original background is probabilistic, relational and symbol...
-
-[Original Post](https://github.com/normal-computing/outlines) | [Source: Hackernews](https://github.com/normal-computing/outlines)
-
-### Ask HN: What are some tools / libraries you built yourself?
-**Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** Java, Express, Spring, PostgreSQL
-
-Many times you just want to plug something in. PostgreSQL, Node.JS Express, Java Spring, numpy, Three.js. There&#x27;s many examples where the already existing solution fits well.<p>Sometimes that&#x27;s not good enough tho. What are some tools, libraries or services you built, are they open-source ...
-
-[Original Post](https://news.ycombinator.com/item?id=27171970) | [Source: Hackernews](https://news.ycombinator.com/item?id=27171970)
-
-### codeschool-projects/HTMLPortfolioProject
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript
-
-Code School Project: HTML + CSS Portfolio
-
-[Original Repository](https://github.com/codeschool-projects/HTMLPortfolioProject) | [Source: Github](https://github.com/codeschool-projects/HTMLPortfolioProject)
-
-### Reveal.js: HTML presentation framework
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://revealjs.com/) | [Source: Hackernews](https://revealjs.com/)
-
-### We now consider Moment.js to be a legacy project in maintenance mode
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://momentjs.com/docs/#/-project-status/) | [Source: Hackernews](https://momentjs.com/docs/#/-project-status/)
-
-### Pose Animator: SVG animation tool using real-time TensorFlow.js models
-**Source:** Hackernews | **Difficulty:** Advanced
-
-
-
-[Original Post](https://github.com/yemount/pose-animator/) | [Source: Hackernews](https://github.com/yemount/pose-animator/)
-
-### Rome: An experimental JavaScript toolchain
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://github.com/facebookexperimental/rome) | [Source: Hackernews](https://github.com/facebookexperimental/rome)
+[Original Repository](https://github.com/freeplane/freeplane) | [Source: Github](https://github.com/freeplane/freeplane)
 
 
 ## C#
@@ -2485,6 +2068,13 @@ Code School Project: HTML + CSS Portfolio
 This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.
 
 [Original Repository](https://github.com/joaomatossilva/DateTimeExtensions) | [Source: Github](https://github.com/joaomatossilva/DateTimeExtensions)
+
+### Ask HN: What are your favorite low-coding apps / tools as a developer?
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+Since low-coding is super trendy these days, I was wondering if there are actually useful apps not only for non-devs but also for lazy-devs?<p>I tried couple of no-code apps, but found them inflexible –not really giving you the opportunity to dive-in and customize.
+
+[Original Post](https://news.ycombinator.com/item?id=22786853) | [Source: Hackernews](https://news.ycombinator.com/item?id=22786853)
 
 ### Proposition HN: I will pay $8000 for you to build your side-project/MVP
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -2544,12 +2134,26 @@ Catalog of all the ideas/tutorials for project based learning!
 
 [Original Post](https://theoutline.com/post/1953/how-a-vc-funded-company-is-undermining-the-open-source-community) | [Source: Hackernews](https://theoutline.com/post/1953/how-a-vc-funded-company-is-undermining-the-open-source-community)
 
+### Website builder Wix acquires art community DeviantArt for $36M
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://techcrunch.com/2017/02/23/website-builder-wix-acquires-art-community-deviantart-for-36m/) | [Source: Hackernews](https://techcrunch.com/2017/02/23/website-builder-wix-acquires-art-community-deviantart-for-36m/)
+
 ### Farm Hack: worldwide community of farmers that build and modify our own tools
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](http://www.farmhack.org) | [Source: Hackernews](http://www.farmhack.org)
+
+### Building a BitTorrent client from scratch in C#
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://cheatdeath.github.io/research-bittorrent-doc/) | [Source: Hackernews](https://cheatdeath.github.io/research-bittorrent-doc/)
 
 ### .NET framework ported to NetBSD
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -2596,77 +2200,21 @@ Catalog of all the ideas/tutorials for project based learning!
 
 ## Productivity
 
-### AntonioTepsich/Convolutional-KANs
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, cnn, computer-vision, deep-learning
-
-This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.
-
-[Original Repository](https://github.com/AntonioTepsich/Convolutional-KANs) | [Source: Github](https://github.com/AntonioTepsich/Convolutional-KANs)
-
-### tkarim45/Beginner-Data-Science-Projects
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, artificial-intelligence, data-science, deep-learning, machine-learning
-
-This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you're just starting your journey in data science or looking to strengthen your skills, these projects provide a practical and interactive way to apply your knowledge.
-
-[Original Repository](https://github.com/tkarim45/Beginner-Data-Science-Projects) | [Source: Github](https://github.com/tkarim45/Beginner-Data-Science-Projects)
-
-### toeverything/AFFiNE
+### makeplane/plane
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, app, crdt, editor, electron
+**Tech Stack:** TypeScript, boards, bug-tracker, django, docker
 
-There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
-[Original Repository](https://github.com/toeverything/AFFiNE) | [Source: Github](https://github.com/toeverything/AFFiNE)
+[Original Repository](https://github.com/makeplane/plane) | [Source: Github](https://github.com/makeplane/plane)
 
-### abhisheks008/DL-Simplified
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, codepeak23, contributions-welcome, deep-learning, gssoc
-
-Deep Learning Simplified is an Open-source repository, containing beginner to advance level deep learning projects for the contributors, who are willing to start their journey in Deep Learning. Devfolio URL, https://devfolio.co/projects/deep-learning-simplified-f013
-
-[Original Repository](https://github.com/abhisheks008/DL-Simplified) | [Source: Github](https://github.com/abhisheks008/DL-Simplified)
-
-### AppFlowy-IO/AppFlowy
+### usememos/memos
 **Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Dart, blog, confluence-alternative, content-management, content-services
+**Tech Stack:** Go, docker, foss, go, markdown
 
-Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
-[Original Repository](https://github.com/AppFlowy-IO/AppFlowy) | [Source: Github](https://github.com/AppFlowy-IO/AppFlowy)
-
-### Kushal997-das/Project-Guidance
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, artificial-intelligence, css, data-science, flutter
-
-:octocat:🌟 The Ultimate resources for beginner to advanced level projects all in  one place 💻 🎯🚀 
-
-[Original Repository](https://github.com/Kushal997-das/Project-Guidance) | [Source: Github](https://github.com/Kushal997-das/Project-Guidance)
-
-### larymak/Python-project-Scripts
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Jupyter Notebook, ascii-art, beginner-project, collaborate, github
-
-This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
-
-[Original Repository](https://github.com/larymak/Python-project-Scripts) | [Source: Github](https://github.com/larymak/Python-project-Scripts)
-
-### Niketkumardheeryan/ML-CaPsule
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, analytics, data-analysis, data-science, data-visualization
-
-ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
-
-[Original Repository](https://github.com/Niketkumardheeryan/ML-CaPsule) | [Source: Github](https://github.com/Niketkumardheeryan/ML-CaPsule)
-
-### siyuan-note/siyuan
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** TypeScript, agentic-ai, ai-agent, digital-garden, electron
-
-A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-[Original Repository](https://github.com/siyuan-note/siyuan) | [Source: Github](https://github.com/siyuan-note/siyuan)
+[Original Repository](https://github.com/usememos/memos) | [Source: Github](https://github.com/usememos/memos)
 
 ### logseq/logseq
 **Source:** Github | **Difficulty:** Intermediate
@@ -2676,87 +2224,268 @@ A privacy-first, open-source platform for knowledge management and collaboration
 
 [Original Repository](https://github.com/logseq/logseq) | [Source: Github](https://github.com/logseq/logseq)
 
-### MaggieAppleton/digital-gardeners
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** JavaScript, digital-garden, digital-gardening, second-brain, wiki
-
-Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-
-[Original Repository](https://github.com/MaggieAppleton/digital-gardeners) | [Source: Github](https://github.com/MaggieAppleton/digital-gardeners)
-
-### dsgiitr/d2l-pytorch
+### cirosantilli/china-dictatorship
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, book, computer-vision, d2l, data-science
+**Tech Stack:** HTML, 996, censorship, censorship-circumvention, china
 
-This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
+反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit.  Home to the mega-FAQ,...
 
-[Original Repository](https://github.com/dsgiitr/d2l-pytorch) | [Source: Github](https://github.com/dsgiitr/d2l-pytorch)
+[Original Repository](https://github.com/cirosantilli/china-dictatorship) | [Source: Github](https://github.com/cirosantilli/china-dictatorship)
 
-### udacity/deep-learning-v2-pytorch
+### gege-circle/.github
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, convolutional-networks, deep-learning, neural-network, pytorch
+**Tech Stack:** a-soul, acfun, bilibili, china, gege-circle
 
-Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
+这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place for Gege circle lovers, mainly discusses anime, games, technology, lifing and other topics. You are welcome to share interest things here.  　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　...
 
-[Original Repository](https://github.com/udacity/deep-learning-v2-pytorch) | [Source: Github](https://github.com/udacity/deep-learning-v2-pytorch)
+[Original Repository](https://github.com/gege-circle/.github) | [Source: Github](https://github.com/gege-circle/.github)
 
-### sajal2692/data-science-portfolio
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Jupyter Notebook, data-science, machine-learning, nlp, pandas
-
-Portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
-
-[Original Repository](https://github.com/sajal2692/data-science-portfolio) | [Source: Github](https://github.com/sajal2692/data-science-portfolio)
-
-### rhiever/Data-Analysis-and-Machine-Learning-Projects
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Jupyter Notebook, data-analysis, data-science, evolutionary-algorithm, ipython-notebook
-
-Repository of teaching materials, code, and data for my data analysis and machine learning projects.
-
-[Original Repository](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | [Source: Github](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
-
-### rtk-ai/rtk
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Rust, agentic-coding, ai-coding, anthropic, claude-code
-
-CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-
-[Original Repository](https://github.com/rtk-ai/rtk) | [Source: Github](https://github.com/rtk-ai/rtk)
-
-### pranjay-poddar/Dev-Geeks
-**Source:** Github | **Difficulty:** Intermediate
-**Tech Stack:** Jupyter Notebook, angular, animation, animation-css, css3
-
-open source project
-
-[Original Repository](https://github.com/pranjay-poddar/Dev-Geeks) | [Source: Github](https://github.com/pranjay-poddar/Dev-Geeks)
-
-### Show HN: Whispering – Open-source, local-first dictation you can trust
-**Source:** Hackernews | **Difficulty:** Beginner
-**Tech Stack:** go, SQLite
-
-Hey HN! Braden here, creator of Whispering, an open-source speech-to-text app.<p>I really like dictation. For years, I relied on transcription tools that were <i>almost</i> good, but they were all closed-source. Even a lot of them that claimed to be “local” or “on-device” were still black boxes that...
-
-[Original Post](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering) | [Source: Hackernews](https://github.com/epicenter-so/epicenter/tree/main/apps/whispering)
-
-### Show HN: Wealthfolio: Private, open-source investment tracker
-**Source:** Hackernews | **Difficulty:** Beginner
-
-Thank you for your comments, just some context:<p>- The app is a simple desktop application that works on macOS, Windows, and Ubuntu.<p>- I developed this app for my own needs. Getting tired of SaaS app subscriptions and privacy concerns.<p>- For now, the activities are logged manually or imported f...
-
-[Original Post](https://wealthfolio.app) | [Source: Hackernews](https://wealthfolio.app)
-
-### Show HN: Beeper Mini – iMessage client for Android
+### As a developer, my most important tools are a pen and a notebook
 **Source:** Hackernews | **Difficulty:** Intermediate
-**Tech Stack:** Python
 
-Hi HN! I’m proud to share that we have built a real 3rd party iMessage client for Android. We did it by reverse engineering the iMessage protocol and encryption system. It&#x27;s available to download today (no waitlist): <a href="https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?i...
 
-[Original Post](https://www.beeper.com/) | [Source: Hackernews](https://www.beeper.com/)
+
+[Original Post](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/) | [Source: Hackernews](https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/)
+
+### FindMyCat – Open-Source Pet Tracker
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.findmycat.io/) | [Source: Hackernews](https://www.findmycat.io/)
+
+### We reduced the cost of building Mastodon at Twitter-scale by 100x
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/) | [Source: Hackernews](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+
+### Facebook Censored Me For Mentioning Open-Source Social Network Mastodon
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon) | [Source: Hackernews](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
+
+### Linux Productivity Tools (2019) [pdf]
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) | [Source: Hackernews](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
+
+### Nototo – Build a unified mental map of notes
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.nototo.app/) | [Source: Hackernews](https://www.nototo.app/)
+
+### Mozilla launches voice search, file-sharing and note-taking tools for Firefox
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://techcrunch.com/2017/08/01/mozilla-launches-experimental-voice-search-file-sharing-and-note-taking-tools-for-firefox/) | [Source: Hackernews](https://techcrunch.com/2017/08/01/mozilla-launches-experimental-voice-search-file-sharing-and-note-taking-tools-for-firefox/)
+
+### Show HN: Automatic weekly meal planner, also plans your leftovers
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://www.eatthismuch.com) | [Source: Hackernews](http://www.eatthismuch.com)
 
 
 ## Education
+
+### aquadzn/learn-x-by-doing-y
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Python, algolia, awesome-list, begineer, learning
+
+🛠️ Learn a technology X by doing a project  - Search engine of project-based learning
+
+[Original Repository](https://github.com/aquadzn/learn-x-by-doing-y) | [Source: Github](https://github.com/aquadzn/learn-x-by-doing-y)
+
+### MaliosDark/wifi-3d-fusion
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Python
+
+WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness.
+
+[Original Repository](https://github.com/MaliosDark/wifi-3d-fusion) | [Source: Github](https://github.com/MaliosDark/wifi-3d-fusion)
+
+### deependersingla/deep_trader
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** Python
+
+This project uses reinforcement learning on stock market and agent tries to learn trading. The goal is to check if the agent can learn to read tape. The project is dedicated to hero in life great Jesse Livermore. 
+
+[Original Repository](https://github.com/deependersingla/deep_trader) | [Source: Github](https://github.com/deependersingla/deep_trader)
+
+### Show HN: Bayleaf – Building a low-profile wireless split keyboard
+**Source:** Hackernews | **Difficulty:** Beginner
+
+Hey HN,<p>I built a wireless, split, ultra-low profile keyboard from scratch called Bayleaf. As a beginner I learned all things electronics, PCB-building, designing for manufacturing, and many other hardware-related skills to put this together.<p>This case study dives into the build process and of c...
+
+[Original Post](https://www.graz.io/articles/bayleaf-wireless-keyboard) | [Source: Hackernews](https://www.graz.io/articles/bayleaf-wireless-keyboard)
+
+### danbev/learning-v8
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** C++
+
+Project for learning V8 internals
+
+[Original Repository](https://github.com/danbev/learning-v8) | [Source: Github](https://github.com/danbev/learning-v8)
+
+### PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** automation, exploratory, software, testing
+
+A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.
+
+[Original Repository](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) | [Source: Github](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
+
+### Project Genie: Experimenting with infinite, interactive worlds
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/) | [Source: Hackernews](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
+
+### Fastplotlib: GPU-accelerated, fast, and interactive plotting library
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c) | [Source: Hackernews](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
+
+### I created an open-source Hardware Hacking Wiki – with tutorials for beginners
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://www.hardbreak.wiki) | [Source: Hackernews](https://www.hardbreak.wiki)
+
+### Show HN: Svelvet – A component library for building interactive flow diagrams
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://svelvet.io/) | [Source: Hackernews](https://svelvet.io/)
+
+### Show HN: I'm 48 and finally learning how to be a game developer
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://apps.apple.com/us/app/slingshot-effect/id1537916631) | [Source: Hackernews](https://apps.apple.com/us/app/slingshot-effect/id1537916631)
+
+### A Framework for Writing Better Documentation
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://documentation.divio.com/) | [Source: Hackernews](https://documentation.divio.com/)
+
+### Show HN: Igel – A CLI tool to run machine learning without writing code
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://github.com/nidhaloff/igel) | [Source: Hackernews](https://github.com/nidhaloff/igel)
+
+### The State of Machine Learning Frameworks
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/) | [Source: Hackernews](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
+
+### Show HN: HN.Academy – Top online courses recommended by Hacker News users
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://hn.academy) | [Source: Hackernews](https://hn.academy)
+
+### Facebook open-sources a speech-recognition system and a machine learning library
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://code.fb.com/ai-research/wav2letter/) | [Source: Hackernews](https://code.fb.com/ai-research/wav2letter/)
+
+### Show HN: Select Star SQL, an interactive SQL book
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](http://selectstarsql.com) | [Source: Hackernews](http://selectstarsql.com)
+
+### GitLab Ultimate and Gold now free for education and open source
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://about.gitlab.com/2018/06/05/gitlab-ultimate-and-gold-free-for-education-and-open-source/) | [Source: Hackernews](https://about.gitlab.com/2018/06/05/gitlab-ultimate-and-gold-free-for-education-and-open-source/)
+
+### HoweyCoins – An educational tool to alert investors to possible fraud
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.howeycoins.com/index.html) | [Source: Hackernews](https://www.howeycoins.com/index.html)
+
+### Build your own X: project-based programming tutorials
+**Source:** Hackernews | **Difficulty:** Beginner
+
+
+
+[Original Post](https://github.com/danistefanovic/build-your-own-x) | [Source: Hackernews](https://github.com/danistefanovic/build-your-own-x)
+
+
+## AI Projects
+
+### nexu-io/open-design
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, agent-skills, ai-agents, ai-design, byok
+
+🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK...
+
+[Original Repository](https://github.com/nexu-io/open-design) | [Source: Github](https://github.com/nexu-io/open-design)
+
+### santifer/career-ops
+**Source:** Github | **Difficulty:** Beginner
+**Tech Stack:** JavaScript, ai, ai-agent, anthropic, ats
+
+Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+
+[Original Repository](https://github.com/santifer/career-ops) | [Source: Github](https://github.com/santifer/career-ops)
+
+### calesthio/OpenMontage
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Python, agent, agentic-ai, ai, claude
+
+World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+
+[Original Repository](https://github.com/calesthio/OpenMontage) | [Source: Github](https://github.com/calesthio/OpenMontage)
+
+### Yeti-791/Tsec-Hackathon
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Python, ai-pentesting, ai-security, autonomous-penetration, intelligent-penetration
+
+腾讯云智能渗透黑客松 Official repository of Tencent Cloud Intelligent Penetration Hackathon. Showcasing top open-source projects of LLM-based autonomous penetration agents, including multi-agent collaboration, automated penetration, AI-driven offensive security, and intelligent attack-defense solutions.
+
+[Original Repository](https://github.com/Yeti-791/Tsec-Hackathon) | [Source: Github](https://github.com/Yeti-791/Tsec-Hackathon)
+
+### HKUDS/nanobot
+**Source:** Github | **Difficulty:** Advanced
+**Tech Stack:** Python, ai, ai-agent, ai-agents, anthropic
+
+Lightweight, open-source AI agent for your tools, chats, and workflows.
+
+[Original Repository](https://github.com/HKUDS/nanobot) | [Source: Github](https://github.com/HKUDS/nanobot)
 
 ### CarterPerez-dev/Cybersecurity-Projects
 **Source:** Github | **Difficulty:** Advanced
@@ -2766,192 +2495,117 @@ Building 70 Projects ranging from beginner to advanced so anyone can — learn f
 
 [Original Repository](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | [Source: Github](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
 
-### NotHarshhaa/DevOps-Projects
+### usestrix/strix
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Java, aws, beginner-friendly, devops, devops-learning
+**Tech Stack:** Python, agents, ai-hacking, ai-penetration-testing, ai-pentesting
 
-🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
-[Original Repository](https://github.com/NotHarshhaa/DevOps-Projects) | [Source: Github](https://github.com/NotHarshhaa/DevOps-Projects)
+[Original Repository](https://github.com/usestrix/strix) | [Source: Github](https://github.com/usestrix/strix)
 
-### AlibabaResearch/AdvancedLiterateMachinery
+### farion1231/cc-switch
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** Rust, ai-tools, claude-code, codex, desktop-app
+
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+
+[Original Repository](https://github.com/farion1231/cc-switch) | [Source: Github](https://github.com/farion1231/cc-switch)
+
+### bytedance/deer-flow
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C++, artificial-intelligence, computer-vision, document, document-analysis
+**Tech Stack:** Python, agent, agentic, agentic-framework, agentic-workflow
 
-A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Tongyi Lab, Alibaba Group.
+An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
-[Original Repository](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) | [Source: Github](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
+[Original Repository](https://github.com/bytedance/deer-flow) | [Source: Github](https://github.com/bytedance/deer-flow)
 
-### helblazer811/ManimML
+### google-gemini/gemini-cli
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, ai, ai-agents, cli, gemini
+
+An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+[Original Repository](https://github.com/google-gemini/gemini-cli) | [Source: Github](https://github.com/google-gemini/gemini-cli)
+
+### c2g-dev/city2graph
 **Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, 3blue1brown, machine-learning, manim, neural-network
+**Tech Stack:** Python, geoai, geographic-data-science, geographical-information-system, geospatial
 
-ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+Transform geospatial relations into graphs for Graph Neural Networks and spatial network analysis
 
-[Original Repository](https://github.com/helblazer811/ManimML) | [Source: Github](https://github.com/helblazer811/ManimML)
+[Original Repository](https://github.com/c2g-dev/city2graph) | [Source: Github](https://github.com/c2g-dev/city2graph)
 
-### Fafa-DL/Awesome-Backbones
+### adrianhajdin/yc_directory
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** TypeScript, nextjs, nextjs15, react19, Nextjs
+
+This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissions, Unstable After for background tasks, Server Component HMR Cache for faster development, and Partial Prerendering for performance optimization.
+
+[Original Repository](https://github.com/adrianhajdin/yc_directory) | [Source: Github](https://github.com/adrianhajdin/yc_directory)
+
+### Fincept-Corporation/FinceptTerminal
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, cnn, deep-learning, image-classification, pytorch
+**Tech Stack:** C++, ai-agents, algorithmic-trading, bloomberg-terminal, cpp
 
-Integrate deep learning models for image classification | Backbone learning/comparison/magic modification project
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
-[Original Repository](https://github.com/Fafa-DL/Awesome-Backbones) | [Source: Github](https://github.com/Fafa-DL/Awesome-Backbones)
+[Original Repository](https://github.com/Fincept-Corporation/FinceptTerminal) | [Source: Github](https://github.com/Fincept-Corporation/FinceptTerminal)
 
-### MichaelCade/90DaysOfDevOps
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Shell, ansible, backup, containers, devops
-
-This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. 
-
-[Original Repository](https://github.com/MichaelCade/90DaysOfDevOps) | [Source: Github](https://github.com/MichaelCade/90DaysOfDevOps)
-
-### bridgecrewio/terragoat
+### aaif-goose/goose
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** HCL, aws-security, azure-security, cloud-security, devsecops
+**Tech Stack:** Rust, acp, ai, ai-agents, mcp
 
-TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
-[Original Repository](https://github.com/bridgecrewio/terragoat) | [Source: Github](https://github.com/bridgecrewio/terragoat)
+[Original Repository](https://github.com/aaif-goose/goose) | [Source: Github](https://github.com/aaif-goose/goose)
 
-### Delta-ML/delta
+### DavidHDev/react-bits
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript, 3d, animations, component-library, components
+
+An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+[Original Repository](https://github.com/DavidHDev/react-bits) | [Source: Github](https://github.com/DavidHDev/react-bits)
+
+### deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT
+**Source:** Github | **Difficulty:** Intermediate
+**Tech Stack:** JavaScript, collaborate, communityexchange, css, expressjs
+
+A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven.
+
+[Original Repository](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT) | [Source: Github](https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT)
+
+### AntonioTepsich/Convolutional-KANs
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, asr, custom-ops, deep-learning, emotion-recognition
+**Tech Stack:** Jupyter Notebook, cnn, computer-vision, deep-learning
 
-DELTA is a deep learning based natural language and speech processing platform. LF AI & DATA Projects: https://lfaidata.foundation/projects/delta/
+This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.
 
-[Original Repository](https://github.com/Delta-ML/delta) | [Source: Github](https://github.com/Delta-ML/delta)
+[Original Repository](https://github.com/AntonioTepsich/Convolutional-KANs) | [Source: Github](https://github.com/AntonioTepsich/Convolutional-KANs)
 
-### leoxiaobin/deep-high-resolution-net.pytorch
+### Shubhamsaboo/awesome-llm-apps
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Cuda, coco-keypoints-detection, deep-high-resolution-net, deep-learning, high-resolution-net
+**Tech Stack:** Python, agents, llms, python, rag
 
-The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
-[Original Repository](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) | [Source: Github](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+[Original Repository](https://github.com/Shubhamsaboo/awesome-llm-apps) | [Source: Github](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
-### oscarknagg/few-shot
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, few-shot-learning, machine-learning, maml, meta-learning
-
-Repository for few-shot learning machine learning projects
-
-[Original Repository](https://github.com/oscarknagg/few-shot) | [Source: Github](https://github.com/oscarknagg/few-shot)
-
-### openvinotoolkit/openvino
+### devoxx/DevoxxGenieIDEAPlugin
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C++, ai, computer-vision, deep-learning, deploy-ai
+**Tech Stack:** Java, anthropic, azure-ai, chatgpt, chatgpt-api
 
-OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest version now also supports Spec Driven Development with CLI Runners.
 
-[Original Repository](https://github.com/openvinotoolkit/openvino) | [Source: Github](https://github.com/openvinotoolkit/openvino)
+[Original Repository](https://github.com/devoxx/DevoxxGenieIDEAPlugin) | [Source: Github](https://github.com/devoxx/DevoxxGenieIDEAPlugin)
 
-### devAmoghS/Machine-Learning-with-Python
+### tkarim45/Beginner-Data-Science-Projects
 **Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, beginner-friendly, data-science, deep-learning, exercises
+**Tech Stack:** Jupyter Notebook, artificial-intelligence, data-science, deep-learning, machine-learning
 
-Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
+This repository is a curated collection of hands-on data science projects tailored for beginners. Whether you're just starting your journey in data science or looking to strengthen your skills, these projects provide a practical and interactive way to apply your knowledge.
 
-[Original Repository](https://github.com/devAmoghS/Machine-Learning-with-Python) | [Source: Github](https://github.com/devAmoghS/Machine-Learning-with-Python)
-
-### L1aoXingyu/Deep-Learning-Project-Template
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, chainer, deep-learning, keras, pytorch
-
-A best practice for deep learning project template architecture.
-
-[Original Repository](https://github.com/L1aoXingyu/Deep-Learning-Project-Template) | [Source: Github](https://github.com/L1aoXingyu/Deep-Learning-Project-Template)
-
-### Unity-Technologies/ml-agents
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C#, deep-learning, deep-reinforcement-learning, machine-learning, neural-networks
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-[Original Repository](https://github.com/Unity-Technologies/ml-agents) | [Source: Github](https://github.com/Unity-Technologies/ml-agents)
-
-### asyml/texar
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, bert, casl-project, data-processing, deep-learning
-
-Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
-
-[Original Repository](https://github.com/asyml/texar) | [Source: Github](https://github.com/asyml/texar)
-
-### aymericdamien/TopDeepLearning
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Python, deep-learning, machine-learning, pytorch, tensorflow
-
-A list of popular github projects related to deep learning
-
-[Original Repository](https://github.com/aymericdamien/TopDeepLearning) | [Source: Github](https://github.com/aymericdamien/TopDeepLearning)
-
-### tensorflow/tensorflow
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** C++, deep-learning, deep-neural-networks, distributed, machine-learning
-
-An Open Source Machine Learning Framework for Everyone
-
-[Original Repository](https://github.com/tensorflow/tensorflow) | [Source: Github](https://github.com/tensorflow/tensorflow)
-
-### Tencent/MedicalNet
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python
-
-Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code.
-
-[Original Repository](https://github.com/Tencent/MedicalNet) | [Source: Github](https://github.com/Tencent/MedicalNet)
-
-### google/lisp-koans
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Common Lisp, ruby, python
-
-Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressive...
-
-[Original Repository](https://github.com/google/lisp-koans) | [Source: Github](https://github.com/google/lisp-koans)
-
-### Shahrayar123/Python-Projects
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Python, agentic-ai, basic, beginner-project, deeplearning
-
-A comprehensive list of Python projects
-
-[Original Repository](https://github.com/Shahrayar123/Python-Projects) | [Source: Github](https://github.com/Shahrayar123/Python-Projects)
-
-
-## AI Projects
-
-### vijishmadhavan/ArtLine
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, ai, art-portraits, colab, creative-coding
-
-A Deep Learning based project for creating line art portraits.
-
-[Original Repository](https://github.com/vijishmadhavan/ArtLine) | [Source: Github](https://github.com/vijishmadhavan/ArtLine)
-
-### amanchadha/coursera-deep-learning-specialization
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, andrew-ng, andrew-ng-course, cnns, convolutional-neural-network
-
-Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learn...
-
-[Original Repository](https://github.com/amanchadha/coursera-deep-learning-specialization) | [Source: Github](https://github.com/amanchadha/coursera-deep-learning-specialization)
-
-### aswintechguy/Machine-Learning-Projects
-**Source:** Github | **Difficulty:** Beginner
-**Tech Stack:** Jupyter Notebook, classfication, jupyter-notebook, machine-learning, notebook-files
-
-This repository contains mini projects in machine learning with notebook files
-
-[Original Repository](https://github.com/aswintechguy/Machine-Learning-Projects) | [Source: Github](https://github.com/aswintechguy/Machine-Learning-Projects)
-
-### lukas/ml-class
-**Source:** Github | **Difficulty:** Advanced
-**Tech Stack:** Jupyter Notebook, deep-learning-tutorials, machine-learning-tutorials
-
-Machine learning lessons and teaching projects designed for engineers
-
-[Original Repository](https://github.com/lukas/ml-class) | [Source: Github](https://github.com/lukas/ml-class)
+[Original Repository](https://github.com/tkarim45/Beginner-Data-Science-Projects) | [Source: Github](https://github.com/tkarim45/Beginner-Data-Science-Projects)
 
 
 ## Other
@@ -2963,6 +2617,13 @@ Machine learning lessons and teaching projects designed for engineers
 Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 [Original Repository](https://github.com/penpot/penpot) | [Source: Github](https://github.com/penpot/penpot)
+
+### Long presumed dead, a thriving coral reef is discovered in West Africa
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+<a href="https:&#x2F;&#x2F;www.frontiersin.org&#x2F;journals&#x2F;marine-science&#x2F;articles&#x2F;10.3389&#x2F;fmars.2026.1848226&#x2F;full" rel="nofollow">https:&#x2F;&#x2F;www.frontiersin.org&#x2F;journals&#x2F;marine-science&#x2F;articles...</a>
+
+[Original Post](https://e360.yale.edu/digest/benin-coral-reef) | [Source: Hackernews](https://e360.yale.edu/digest/benin-coral-reef)
 
 ### 5k menus from the New York Public Library’s Buttolph Collection (1880-1920)
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -3035,33 +2696,47 @@ It's a little generative art trinket. Just draw and watch. Hold shift while movi
 
 [Original Post](http://weavesilk.com) | [Source: Hackernews](http://weavesilk.com)
 
+### A digestion of the Jacobian conjecture counterexample
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) | [Source: Hackernews](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+
+### 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling) | [Source: Hackernews](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
+
+### FreeInk: Open ecosystem for e-readers
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://freeink.org/) | [Source: Hackernews](https://freeink.org/)
+
+### Laguna S 2.1
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://poolside.ai/blog/introducing-laguna-s-2-1) | [Source: Hackernews](https://poolside.ai/blog/introducing-laguna-s-2-1)
+
+### Map of the world's great castles and fortresses
+**Source:** Hackernews | **Difficulty:** Intermediate
+
+
+
+[Original Post](https://thecastlemap.com/) | [Source: Hackernews](https://thecastlemap.com/)
+
 ### Incremental – A library for incremental computations
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
 [Original Post](https://github.com/janestreet/incremental) | [Source: Hackernews](https://github.com/janestreet/incremental)
-
-### Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) | [Source: Hackernews](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
-
-### Jellyfin founder Andrew leaves team
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://forum.jellyfin.org/t-project-leadership-changes) | [Source: Hackernews](https://forum.jellyfin.org/t-project-leadership-changes)
-
-### Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://vincentwoo.com/3d/grace_cathedral/) | [Source: Hackernews](https://vincentwoo.com/3d/grace_cathedral/)
 
 ### Human mathematicians are being outcounterexampled
 **Source:** Hackernews | **Difficulty:** Intermediate
@@ -3070,36 +2745,15 @@ It's a little generative art trinket. Just draw and watch. Hold shift while movi
 
 [Original Post](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) | [Source: Hackernews](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 
-### Nativ: Run frontier open models locally on your Mac
+### My USB Drive Has a Hidden Encrypted Vault
 **Source:** Hackernews | **Difficulty:** Intermediate
 
 
 
-[Original Post](https://blaizzy.github.io/nativ/) | [Source: Hackernews](https://blaizzy.github.io/nativ/)
-
-### Agent swarms and the new model economics
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://cursor.com/blog/agent-swarm-model-economics) | [Source: Hackernews](https://cursor.com/blog/agent-swarm-model-economics)
-
-### Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://www.emergingtrajectories.com/lh/frontier-lab-economics/) | [Source: Hackernews](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
-
-### Perfection is not over-engineering
-**Source:** Hackernews | **Difficulty:** Intermediate
-
-
-
-[Original Post](https://var0.xyz/posts/perfection-is-not-over-engineering.html) | [Source: Hackernews](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
+[Original Post](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/) | [Source: Hackernews](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
 
 
 ---
 
-*Automatically generated on 2026-07-21 08:16 UTC*
+*Automatically generated on 2026-07-22 08:16 UTC*
 *Powered by [Open Source Radar](https://github.com/OnuegbuUdochukwu/open-source-radar)*
